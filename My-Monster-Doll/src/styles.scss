@@ -9,14 +9,16 @@
 // Be sure that you only ever include this mixin once!
 @include mat.core();
 
+
+
 // Define the palettes for your theme using the Material Design palettes available in palette.scss
 // (imported above). For each palette, you can optionally specify a default, lighter, and darker
 // hue. Available color palettes: https://material.io/design/color/
-$My-Monster-Doll-primary: mat.define-palette(mat.$teal-palette);
-$My-Monster-Doll-accent: mat.define-palette(mat.$yellow-palette, A200, A100, A400);
+$My-Monster-Doll-primary: mat.define-palette(mat.$cyan-palette, 500);
+$My-Monster-Doll-accent: mat.define-palette(mat.$brown-palette, 300);
 
 // The warn palette is optional (defaults to red).
-$My-Monster-Doll-warn: mat.define-palette(mat.$pink-palette);
+$My-Monster-Doll-warn: mat.define-palette(mat.$pink-palette, 900);
 
 // Create the theme object. A theme consists of configurations for individual
 // theming systems such as "color" or "typography".
@@ -34,6 +36,27 @@ $My-Monster-Doll-theme: mat.define-light-theme((
 @include mat.all-component-themes($My-Monster-Doll-theme);
 
 /* You can add global styles to this file, and also import other style files */
+:root{
+--accent: #A1887F;
+--purple-blue: #311B92;
+--Imbue: 'Imbue', serif;
+}
 
-html, body { height: 100%; }
+html, body { height: 100%; box-sizing: border-box;}
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+body {
+  background-image: url('./assets/9.jpg') !important;
+  background-size: cover;
+  color: black !important;
+}
+
+header {
+  height: 12vh;
+  display: flex;
+  flex: content;
+  justify-content: space-between;
+  padding:0 5%;
+  align-items: center;
+
+}
