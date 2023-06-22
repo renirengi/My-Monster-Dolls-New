@@ -26,7 +26,9 @@ export class DollService {
           } else if (value === 'exclusive') {
             dolls.forEach((doll) => years.add(doll.exclusive));
           } else if (value === 'character') {
-            dolls.forEach((doll) => years.add(doll.character));
+            dolls.forEach((doll) => {
+              doll.character?.forEach((item)=> years.add(item))
+            })
           }
            else if (value === 'gender') {
             dolls.forEach((doll) => years.add(doll.gender));
