@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Observable } from 'rxjs';
+import { DollService } from 'src/app/services/doll.service';
 
 @Component({
   selector: 'app-header-menu',
@@ -6,8 +8,25 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./header-menu.component.scss']
 })
 export class HeaderMenuComponent implements OnInit {
+  [x: string]: any;
 
-  constructor() { }
+  public types$: Observable<string[]>;
+  public characters$: Observable<string[]>;
+  public years$: Observable<string[]>;
+  public genders$: Observable<string[]>;
+  public series$: Observable<string[]>;
+  public exclusives$: Observable<string[]>;
+
+  constructor(
+    private dollService: DollService,
+  ) {
+    this.types$ = this.dollService.getAvailable('type');
+    this.characters$ = this.dollService.getAvailable('character');
+    this.years$ = this.dollService.getAvailable('year');
+    this.genders$ = this.dollService.getAvailable('gender');
+    this.series$ = this.dollService.getAvailable('series');
+    this.exclusives$ = this.dollService.getAvailable('exclusive');
+   }
 
   ngOnInit(): void {
   }

@@ -16,10 +16,16 @@ import { MatSelectModule } from '@angular/material/select';
 import { MatMenuModule } from '@angular/material/menu';
 
 import { AppRoutingModule } from './app-routing.module';
+import { HttpClientModule } from '@angular/common/http';
+
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
 import { HeaderComponent } from './components/header/header.component';
 import { HeaderMenuComponent } from './components/header-menu/header-menu.component';
+
+import { DollService } from './services/doll.service';
+
 
 @NgModule({
   declarations: [
@@ -31,6 +37,7 @@ import { HeaderMenuComponent } from './components/header-menu/header-menu.compon
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
+    HttpClientModule,
     MatButtonModule,
     MatCardModule,
     MatCheckboxModule,
@@ -45,7 +52,7 @@ import { HeaderMenuComponent } from './components/header-menu/header-menu.compon
     MatSelectModule,
     MatMenuModule
   ],
-  providers: [],
+  providers: [DollService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
