@@ -49,7 +49,7 @@ body {
   background-image: url('./assets/9.jpg') !important;
   background-size: cover;
   color: black !important;
-}
+
 
 header {
   height: 12vh;
@@ -60,4 +60,11 @@ header {
   align-items: center;
 }
 
+.page {
+  width: 80%;
+  margin: 2vh auto;
+  padding: 2vh;
+}
+
+}
 .mat-menu-panel {width: 50vw; height: 80vh; left:0}

@@ -750,7 +750,7 @@
       "year": 2010,
       "character": ["Clawdeen Wolf"],
       "series": "Dawn of the Dance",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "T6069",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Dawn-Dance-Clawdeen-Wolf.jpg",
@@ -771,7 +771,7 @@
       "year": 2010,
       "character": ["Cleo de Nile"],
       "series": "Dawn of the Dance",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "T6070",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/01/Dawn-Dance-Cleo-De-Nile.jpg",
@@ -788,7 +788,7 @@
       "year": 2010,
       "character": ["Frankie Stein"],
       "series": "Dawn of the Dance",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "T6068",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/01/Dawn-Dance-Frankie-Stein.jpg",
@@ -805,7 +805,7 @@
       "year": 2010,
       "character": ["Clawdeen Wolf"],
       "series": "Gloom Beach",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "T7992",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Gloom-Beach-Clawdeen-Wolf.jpg",
@@ -822,7 +822,7 @@
       "year": 2010,
       "character": ["Cleo de Nile"],
       "series": "Gloom Beach",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "T7990",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Gloom-Beach-Cleo-De-Nile.jpg",
@@ -839,7 +839,7 @@
       "year": 2010,
       "character": ["Draculaura"],
       "series": "Gloom Beach",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "T7993",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Gloom-Beach-Draculaura.jpg",
@@ -857,7 +857,7 @@
       "year": 2010,
       "character": ["Frankie Stein"],
       "series": "Gloom Beach",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "T7988",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Gloom-Beach-Frankie-Stein.jpg",
@@ -874,7 +874,7 @@
       "year": 2010,
       "character": ["Jackson Jekyll"],
       "series": "Gloom Beach",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "T7991",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Gloom-Beach-Jackson-Jekyll.jpg",
@@ -922,7 +922,7 @@
       "year": 2010,
       "character": ["Frankie Stein"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "R0711",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/SDCC-Frankie-Stein.jpg",
@@ -943,7 +943,7 @@
       "year": 2010,
       "character": ["Clawdeen Wolf"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "N5947",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/01/Clawdeen-Wolf-Basic.jpg",
@@ -960,7 +960,7 @@
       "year": 2010,
       "character": ["Cleo de Nile", "Deuce-Gorgon"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "N2854",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Cleo-De-Nile-Deuce-Gorgon.jpg",
@@ -977,7 +977,7 @@
       "year": 2010,
       "character": ["Draculaura"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "N5946",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Draculaura-Basic.jpg",
@@ -994,7 +994,7 @@
       "year": 2010,
       "character": ["Frankie Stein"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "N5948",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/01/Frankie-Stein-Basic.jpg",
@@ -1011,7 +1011,7 @@
       "year": 2010,
       "character": ["Ghoulia Yelps"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "R3708",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Ghoulia-Yelps.jpg",
@@ -1029,7 +1029,7 @@
       "year": 2010,
       "character": ["Holt Hyde"],
       "series": "Signature",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "V2324",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/01/Holt-Hyde.jpg",
@@ -1047,7 +1047,7 @@
       "year": 2010,
       "character": ["Lagoona Blue"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "P2673",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Lagoona-Blue.jpg",
@@ -1064,7 +1064,7 @@
       "year": 2011,
       "character": ["Frankie Stein"],
       "series": "Classroom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W2558",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Classroom-Frankie-Stein.jpg",
@@ -1081,7 +1081,7 @@
       "year": 2011,
       "character": ["Ghoulia Yelps"],
       "series": "Classroom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W2557",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Classroom-Ghoulia-Yelps.jpg",
@@ -1099,7 +1099,7 @@
       "year": 2011,
       "character": ["Lagoona Blue"],
       "series": "Classroom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W2560",
       "type": "Doll",
       "galleryImagesLinks": [
@@ -1117,7 +1117,7 @@
       "year": 2011,
       "character": ["Cleo de Nile"],
       "series": "Dawn of the Dance",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W2146",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dawn-Dance-Cleo-De-Nile.jpg",
@@ -1135,7 +1135,7 @@
       "year": 2011,
       "character": ["Deuce Gorgon"],
       "series": "Dawn of the Dance",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "W2147",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/01/Dawn-Dance-Deuce-Gorgon-2.jpg",
@@ -1153,7 +1153,7 @@
       "year": 2011,
       "character": ["Ghoulia Yelps"],
       "series": "Dawn of the Dance",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W2148",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dawn-Dance-Ghoulia-Yelps.jpg",
@@ -1171,7 +1171,7 @@
       "year": 2011,
       "character": ["Lagoona Blue"],
       "series": "Dawn of the Dance",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W2145",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dawn-Dance-Lagoona-Blue.jpg",
@@ -1188,7 +1188,7 @@
       "year": 2011,
       "character": ["Cleo de Nile"],
       "series": "Dead Tired",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7974",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dead-Tired-Cleo-De-Nile.jpg",
@@ -1205,7 +1205,7 @@
       "year": 2011,
       "character": ["Draculaura"],
       "series": "Dead Tired",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7976",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dead-Tired-Draculaura.jpg",
@@ -1222,7 +1222,7 @@
       "year": 2011,
       "character": ["Frankie Stein"],
       "series": "Dead Tired",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7975",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dead-Tired-Frankie-Stein.jpg",
@@ -1239,7 +1239,7 @@
       "year": 2011,
       "character": ["Ghoulia Yelps"],
       "series": "Dead Tired",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7973",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dead-Tired-Ghoulia-Yelps.jpg",
@@ -1261,7 +1261,7 @@
       "year": 2011,
       "character": ["Lagoona Blue"],
       "series": "Dead Tired",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7963",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Hydration-Station-Lagoona-Blue.jpg",
@@ -1286,7 +1286,7 @@
       "character": ["Cleo de Nile", "Draculaura", "Ghoulia Yelps"],
       "id": 31,
       "series": "Fearleading",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7966",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/fearleading-draculaura-cleo-ghoulia.jpg",
@@ -1310,7 +1310,7 @@
       "year": 2011,
       "character": ["Clawdeen Wolf","Ghoulia Yelps","Cleo de Nile", "Draculaura", "Frankie Stein"],
       "series": "Gloom Beach",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W2823",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Gloom-Beach-5-Pack-box-back.jpg",
@@ -1335,7 +1335,7 @@
       "year": 2011,
       "character": ["Draculaura"],
       "series": "Killer Style I",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W4140",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Killer-Style-Draculaura.jpg",
@@ -1357,7 +1357,7 @@
       "year": 2011,
       "character": ["Frankie Stein"],
       "series": "Killer Style I",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W4139",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Killer-Style-Frankie-Stein.jpg",
@@ -1403,7 +1403,7 @@
       "year": 2011,
       "character": ["Ghoulia Yelps"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7964",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/SDCC-Ghoulia-Yelps.jpg",
@@ -1434,7 +1434,7 @@
       "year": 2011,
       "character": ["Clawdeen Wolf"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W2577",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Room-to-Howl-box.jpg",
@@ -1458,7 +1458,7 @@
       "year": 2011,
       "character": ["Abbey Bominable"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7988",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Schools-Out-Abbey-Bominable.jpg",
@@ -1475,7 +1475,7 @@
       "year": 2011,
       "character": ["Clawdeen Wolf"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7990",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Schools-Out-Clawdeen-Wolf.jpg",
@@ -1497,7 +1497,7 @@
       "year": 2011,
       "character": ["Cleo de Nile"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7991",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/04/Schools-Out-Cleo-de-Nile.jpg",
@@ -1514,7 +1514,7 @@
       "year": 2011,
       "character": ["Draculaura", "Clawd Wolf"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "V7961",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Draculaura-Clawd-2-Pack-s.jpg",
@@ -1532,7 +1532,7 @@
       "year": 2011,
       "character": ["Frankie Stein"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7989",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Schools-Out-Frankie-Stein.jpg",
@@ -1549,7 +1549,7 @@
       "year": 2011,
       "character": ["Lagoona Blue"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W2822",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Schools-Out-Lagoona-Blue.jpg",
@@ -1571,7 +1571,7 @@
       "year": 2011,
       "character": ["Spectra Vondergeist"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7962",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Spectra-Vondergeist.jpg",
@@ -1593,7 +1593,7 @@
       "year": 2011,
       "character": ["Toralei Stripe"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W9117",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/04/Campus-Stroll-Toralei-Stripe-11.jpg",
@@ -1615,7 +1615,7 @@
       "year": 2011,
       "character": ["Abbey Bominable"],
       "series": "Skull Shores",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W9184",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Skull-Shores-Abbey-Bominable.jpg",
@@ -1637,7 +1637,7 @@
       "year": 2011,
       "character": ["Ghoulia Yelps"],
       "series": "Skull Shores",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W9181",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Skull-Shores-Ghoulia-Yelps.jpg",
@@ -1659,7 +1659,7 @@
       "year": 2011,
       "character": ["Gillington \"Gil\" Webber"],
       "series": "Skull Shores",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "W9183",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Skull-Shores-Gil-Webber.jpg",
@@ -1681,7 +1681,7 @@
       "year": 2011,
       "character": ["Lagoona Blue"],
       "series": "Skull Shores",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W9182",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Skull-Shores-Lagoona-Blue.jpg",
@@ -1698,7 +1698,7 @@
       "year": 2011,
       "character": ["C.A. Cupid"],
       "series": "Sweet 1600",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3799",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Sweet-1600-CA-Cupid.jpg",
@@ -1719,7 +1719,7 @@
       "year": 2011,
       "character": ["Clawd Wolf"],
       "series": "Sweet 1600",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "W9192",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Sweet-1600-Clawd-Wolf.jpg",
@@ -1736,7 +1736,7 @@
       "year": 2011,
       "character": ["Clawdeen Wolf"],
       "series": "Sweet 1600",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W9191",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/01/Sweet-1600-Clawdeen-Wolf.jpg",
@@ -1758,7 +1758,7 @@
       "year": 2011,
       "character": ["Draculaura"],
       "series": "Sweet 1600",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W9189",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/01/Sweet-1600-Draculaura.jpg",
@@ -1795,7 +1795,7 @@
       "year": 2011,
       "character": ["Frankie Stein"],
       "series": "Sweet 1600",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W9190",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/01/Sweet-1600-Frankie-Stein.jpg",
@@ -1900,7 +1900,7 @@
       "year": 2012,
       "character": ["Frankie Stein"],
       "series": "Classroom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y4686",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/04/Classroom-Frankie-Stein-s.jpg",
@@ -1917,7 +1917,7 @@
       "year": 2012,
       "character": ["Ghoulia Yelps"],
       "series": "Classroom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y4685",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Classroom-Ghoulia-Yelps-reissue.jpg",
@@ -1934,7 +1934,7 @@
       "year": 2012,
       "character": ["Lagoona Blue"],
       "series": "Classroom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y4687",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Classroom-Lagoona-Blue-reissue.jpg",
@@ -1950,7 +1950,7 @@
       "year": 2012,
       "character": ["Howleen Wolf"],
       "series": "Dance Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0431",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Dance-Class-Howleen-Wolf.jpg",
@@ -1966,7 +1966,7 @@
       "year": 2012,
       "character": ["Lagoona Blue"],
       "series": "Dance Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0434",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Dance-Class-Lagoona-Blue.jpg",
@@ -1982,7 +1982,7 @@
       "year": 2012,
       "character": ["Operetta"],
       "series": "Dance Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0433",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Dance-Class-Operetta.jpg",
@@ -1998,7 +1998,7 @@
       "year": 2012,
       "character": ["Robecca Steam"],
       "series": "Dance Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0432",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Dance-Class-Robecca-Steam.jpg",
@@ -2014,7 +2014,7 @@
       "year": 2012,
       "character": ["Abbey Bominable"],
       "series": "Dead Tired",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X6917",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dead-Tired-Abbey-Bominable.jpg",
@@ -2030,7 +2030,7 @@
       "year": 2012,
       "character": ["Clawdeen Wolf"],
       "series": "Dead Tired",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4516",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dead-Tired-Clawdeen-Wolf.jpg",
@@ -2046,7 +2046,7 @@
       "year": 2012,
       "character": ["Draculaura"],
       "series": "Dead Tired",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4515",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dead-Tired-Draculaura-Nightie.jpg",
@@ -2062,7 +2062,7 @@
       "year": 2012,
       "character": ["Draculaura", "Abbey Bominable", "Ghoulia Yelps"],
       "series": "Dot Dead Gorgeous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4482",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Dot-Dead-Gorgeous-3-Pack-l.jpg",
@@ -2080,7 +2080,7 @@
       "year": 2012,
       "character": ["Lagoona Blue"],
       "series": "Dot Dead Gorgeous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4530",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Dot-Dead-Gorgeous-Lagoona-Blue.jpg",
@@ -2102,7 +2102,7 @@
       "year": 2012,
       "character": ["Operetta"],
       "series": "Dot Dead Gorgeous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4529",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Dot-Dead-Gorgeous-Operetta.jpg",
@@ -2119,7 +2119,7 @@
       "year": 2012,
       "character": ["Spectra Vondergeist"],
       "series": "Dot Dead Gorgeous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4531",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Dot-Dead-Gorgeous-Spectra-Vondergeist.jpg",
@@ -2141,7 +2141,7 @@
       "year": 2012,
       "character": ["Clawdeen Wolf"],
       "series": "Ghoul’s Alive!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghouls-Alive-Clawdeen-Wolf.jpg",
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghouls-Alive-Clawdeen-Wolf-box.jpg"
@@ -2156,7 +2156,7 @@
       "year": 2012,
       "character": ["Frankie Stein"],
       "series": "Ghoul’s Alive!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0424",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghouls-Alive-Frankie-Stein.jpg",
@@ -2172,7 +2172,7 @@
       "year": 2012,
       "character": ["Spectra Vondergeist"],
       "series": "Ghoul’s Alive!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0423",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghouls-Alive-Spectra-Vondergeist.jpg",
@@ -2188,7 +2188,7 @@
       "year": 2012,
       "character": ["Abbey Bominable"],
       "series": "Ghouls Rule",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0366",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghouls-Rule-Abbey-Bominable.jpg",
@@ -2206,7 +2206,7 @@
       "year": 2012,
       "character": ["Clawdeen Wolf"],
       "series": "Ghouls Rule",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3715",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghouls-Rule-Clawdeen-Wolf.jpg",
@@ -2228,7 +2228,7 @@
       "year": 2012,
       "character": ["Cleo de Nile"],
       "series": "Ghouls Rule",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3718",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghouls-Rule-Cleo-de-Nile.jpg",
@@ -2250,7 +2250,7 @@
       "year": 2012,
       "character": ["Draculaura"],
       "series": "Ghouls Rule",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3716",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghouls-Rule-Draculaura.jpg",
@@ -2272,7 +2272,7 @@
       "year": 2012,
       "character": ["Frankie Stein"],
       "series": "Ghouls Rule",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3714",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghouls-Rule-Frankie-Stein.jpg",
@@ -2294,7 +2294,7 @@
       "year": 2012,
       "character": ["Abbey Bominable"],
       "series": "I Love Fashion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4492",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/I-Love-Fashion-Abbey-Bominable.jpg",
@@ -2319,7 +2319,7 @@
       "year": 2012,
       "character": ["Frankie Stein"],
       "series": "I Love Fashion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4491",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/I-Love-Fashion-Frankie-Stein.jpg",
@@ -2344,7 +2344,7 @@
       "year": 2012,
       "character": ["Clawdeen Wolf"],
       "series": "Killer Style II",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X5107",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Killer-Style-II-Clawdeen-Wolf.jpg",
@@ -2365,7 +2365,7 @@
       "year": 2012,
       "character": ["Operetta"],
       "series": "Killer Style II",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X5106",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Killer-Style-II-Operetta.jpg",
@@ -2406,7 +2406,7 @@
       "year": 2012,
       "character": ["C.A. Cupid"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y4683",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/CA-Cupid.jpg",
@@ -2426,7 +2426,7 @@
       "year": 2012,
       "character": ["Clawdeen Wolf"],
       "series": "Coffin Bean",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3721",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Coffin-Bean-Clawdeen-box.jpg",
@@ -2446,7 +2446,7 @@
       "year": 2012,
       "character": ["Clawdeen Wolf", "Draculaura"],
       "series": "Coffin Bean",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4517",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Coffin-Bean-Clawdeen-Draculaura.jpg",
@@ -2555,7 +2555,7 @@
       "year": 2012,
       "character": ["Draculaura"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4496",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Draculaura-Powder-Room-3.jpg",
@@ -2580,7 +2580,7 @@
       "year": 2012,
       "character": ["Draculaura"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4518",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Draculauras-Roadster-JCPenney.jpg",
@@ -2605,7 +2605,7 @@
       "year": 2012,
       "character": ["Scarah Screams", "Hoodude Voodoo"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "X0590",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/SDCC-Scarah-Screams-Hoodude-Voodoo.jpg",
@@ -2634,7 +2634,7 @@
       "year": 2012,
       "character": ["Ghoulia Yelps"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4497",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghoulia-Yelps-Scooter-3.jpg",
@@ -2659,7 +2659,7 @@
       "year": 2012,
       "character": ["Abbey Bominable"],
       "series": "Picture Day",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y4311",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Picture-Day-Abbey-Bominable.jpg",
@@ -2681,7 +2681,7 @@
       "year": 2012,
       "character": ["Cleo de Nile"],
       "series": "Picture Day",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y4313",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Picture-Day-Cleo-de-Nile.jpg",
@@ -2703,7 +2703,7 @@
       "year": 2012,
       "character": ["Draculaura"],
       "series": "Picture Day",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y4310",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Picture-Day-Draculaura.jpg",
@@ -2725,7 +2725,7 @@
       "year": 2012,
       "character": ["Spectra Vondergeist"],
       "series": "Picture Day",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y4312",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Picture-Day-Spectra-Vondergeist.jpg",
@@ -2747,7 +2747,7 @@
       "year": 2012,
       "character": ["Clawdeen Wolf"],
       "series": "Scarily Ever After",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4485",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Scarily-Ever-After-Clawdeen-Wolf.jpg",
@@ -2772,7 +2772,7 @@
       "year": 2012,
       "character": ["Draculaura"],
       "series": "Scarily Ever After",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4484",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Scarily-Ever-After-Draculaura.jpg",
@@ -2797,7 +2797,7 @@
       "year": 2012,
       "character": ["Frankie Stein"],
       "series": "Scarily Ever After",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4486",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Scarily-Ever-After-Frankie-Stein.jpg",
@@ -2822,7 +2822,7 @@
       "year": 2012,
       "character": ["Abbey Bominable"],
       "series": "Scaris: City of Frights",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0393",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Scaris-Abbey-Bominable.jpg",
@@ -2862,7 +2862,7 @@
       "year": 2012,
       "character": ["Clawdeen Wolf"],
       "series": "Scaris: City of Frights",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0379",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Scaris-Clawdeen-Wolf.jpg",
@@ -2902,7 +2902,7 @@
       "year": 2012,
       "character": ["Deuce Gorgon"],
       "series": "Scaris: City of Frights",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "Y0395",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Scaris-Deuce-Gorgon.jpg",
@@ -2922,7 +2922,7 @@
       "year": 2012,
       "character": ["Draculaura"],
       "series": "Scaris: City of Frights",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0396",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Scaris-Draculaura.jpg",
@@ -2942,7 +2942,7 @@
       "year": 2012,
       "character": ["Frankie Stein"],
       "series": "Scaris: City of Frights",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0380",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Scaris-Frankie-Stein.jpg",
@@ -2964,7 +2964,7 @@
       "year": 2012,
       "character": ["Ghoulia Yelps"],
       "series": "Scaris: City of Frights",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0394",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Scaris-Ghoulia-Yelps.jpg",
@@ -2984,7 +2984,7 @@
       "year": 2012,
       "character": ["Jinafire Long"],
       "series": "Scaris: City of Frights",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0378",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Scaris-Jinafire-Long.jpg",
@@ -3006,7 +3006,7 @@
       "year": 2012,
       "character": ["Rochelle Goyle"],
       "series": "Scaris: City of Frights",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0381",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Scaris-Rochelle-Goyle.jpg",
@@ -3028,7 +3028,7 @@
       "year": 2012,
       "character": ["Skelita Calaveras"],
       "series": "Scaris: City of Frights",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y0377",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Scaris-Skelita-Calaveras.jpg",
@@ -3050,7 +3050,7 @@
       "year": 2012,
       "character": ["Clawdeen Wolf", "Howleen Wolf"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X5227",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Campus-Stroll-Clawdeen-Howleen-s.jpg",
@@ -3075,7 +3075,7 @@
       "year": 2012,
       "character": ["Meowlody", "Purrsephone"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W9215",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Campus-Stroll-Meowlody-Purrsephone-s.jpg",
@@ -3098,7 +3098,7 @@
       "year": 2012,
       "character": ["Nefera de Nile"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W9115",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Campus-Stroll-Nefera-de-Nile.jpg",
@@ -3120,7 +3120,7 @@
       "year": 2012,
       "character": ["Operetta"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "W9116",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Campus-Stroll-Operetta.jpg",
@@ -3142,7 +3142,7 @@
       "year": 2012,
       "character": ["Jackson Jekyll"],
       "series": "Signature",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "X3649",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Between-Classes-Jackson-Jekyll.jpg",
@@ -3164,7 +3164,7 @@
       "year": 2012,
       "character": ["Robecca Steam"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3652",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Wave-4-Robecca-Steam.jpg",
@@ -3191,7 +3191,7 @@
       "year": 2012,
       "character": ["Rochelle Goyle"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3650",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Between-Classes-Rochelle-Goyle.jpg",
@@ -3213,7 +3213,7 @@
       "year": 2012,
       "character": ["Venus McFlytrap"],
       "series": "Signature",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3651",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Wave-4-Venus-McFlytrap.jpg",
@@ -3235,7 +3235,7 @@
       "year": 2012,
       "character": ["Clawdeen Wolf", "Cleo de Nile", "Draculaura", "Frankie Stein", "Ghoulia Yelps"],
       "series": "Skull Shores",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4489",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Skull-Shores-5-Pack-box.jpg",
@@ -3258,7 +3258,7 @@
       "year": 2012,
       "character": ["Frankie Stein"],
       "series": "Skull Shores",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X0593",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Skull-Shores-Frankie-Stein.jpg",
@@ -3278,7 +3278,7 @@
       "year": 2012,
       "character": ["Draculaura"],
       "series": "Skull Shores",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3485",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Skull-Shores-Draculaura.jpg",
@@ -3300,7 +3300,7 @@
       "year": 2012,
       "character": ["Abbey Bominable"],
       "series": "Skultimate Roller Maze",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y8349",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Skultimate-Roller-Maze-Abbey-Bominable.jpg",
@@ -3320,7 +3320,7 @@
       "year": 2012,
       "character": ["Abbey Bominable", "Ghoulia Yelps"],
       "series": "Skultimate Roller Maze",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X4513",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/SRM-Abbey-Bominable-Ghoulia-Yelps-s.jpg",
@@ -3343,7 +3343,7 @@
       "year": 2012,
       "character": ["Clawdeen Wolf"],
       "series": "Skultimate Roller Maze",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y8350",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Skultimate-Roller-Maze-Clawdeen-Wolf.jpg",
@@ -3363,7 +3363,7 @@
       "year": 2012,
       "character": ["Frankie Stein"],
       "series": "Skultimate Roller Maze",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3672",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Skultimate-Roller-Maze-Frankie-Stein.jpg",
@@ -3383,7 +3383,7 @@
       "year": 2012,
       "character": ["Ghoulia Yelps"],
       "series": "Skultimate Roller Maze",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3675",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Skultimate-Roller-Maze-Ghoulia-Yelps.jpg",
@@ -3403,7 +3403,7 @@
       "year": 2012,
       "character": ["Lagoona Blue"],
       "series": "Skultimate Roller Maze",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3673",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Skultimate-Roller-Maze-Lagoona-Blue.jpg",
@@ -3423,7 +3423,7 @@
       "year": 2012,
       "character": ["Operetta"],
       "series": "Skultimate Roller Maze",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "X3674",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Skultimate-Roller-Maze-Operetta.jpg",
@@ -3442,7 +3442,7 @@
     {
       "year": 2012,
       "character": ["Clawdeen Wolf"],
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y3286",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/12/Finders-Creepers-Clawdeen-Wolf-1.jpg",
@@ -3772,7 +3772,7 @@
       "year": 2013,
       "character": ["Abbey Bominable"],
       "series": "13 Wishes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR94",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/13-Wishes-Abbey-Bominable.jpg",
@@ -3795,7 +3795,7 @@
       "year": 2013,
       "character": ["Clawdeen Wolf"],
       "series": "13 Wishes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7705",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/13-Wishes-Clawdeen-Wolf.jpg",
@@ -3817,7 +3817,7 @@
       "year": 2013,
       "character": ["Cleo de Nile"],
       "series": "13 Wishes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7716",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/13-Wishes-Cleo-de-Nile-Oasis-2.jpg",
@@ -3839,7 +3839,7 @@
       "year": 2013,
       "character": ["Draculaura"],
       "series": "13 Wishes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7703",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/13-Wishes-Draculaura-s.jpg",
@@ -3863,7 +3863,7 @@
       "year": 2013,
       "character": ["Frankie Stein"],
       "series": "13 Wishes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7704",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/13-Wishes-Frankie-Stein.jpg",
@@ -3885,7 +3885,7 @@
       "year": 2013,
       "character": ["Gigi Grant"],
       "series": "13 Wishes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7709",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/13-Wishes-Gigi-Grant.jpg",
@@ -3907,7 +3907,7 @@
       "year": 2013,
       "character": ["Howleen Wolf"],
       "series": "13 Wishes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7710",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/13-Wishes-Howleen-Wolf.jpg",
@@ -3929,7 +3929,7 @@
       "year": 2013,
       "character": ["Lagoona Blue"],
       "series": "13 Wishes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBV48",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/13-Wishes-Lagoona-Blue.jpg",
@@ -3951,7 +3951,7 @@
       "year": 2013,
       "character": ["Spectra Vondergeist"],
       "series": "13 Wishes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7720",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/13-Wishes-Spectra-Vondergeist-Party-Lounge.jpg",
@@ -3976,7 +3976,7 @@
       "year": 2013,
       "character": ["Twyla"],
       "series": "13 Wishes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7708",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/13-Wishes-Twyla.jpg",
@@ -3998,7 +3998,7 @@
       "year": 2013,
       "character": ["Abbey Bominable"],
       "series": "Art Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDF13",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Art-Class-Abbey-Bominable.jpg",
@@ -4020,7 +4020,7 @@
       "year": 2013,
       "character": ["Draculaura"],
       "series": "Art Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDF12",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Art-Class-Draculaura.jpg",
@@ -4042,7 +4042,7 @@
       "year": 2013,
       "character": ["Robecca Steam"],
       "series": "Art Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDD79",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Art-Class-Robecca-Steam.jpg",
@@ -4064,7 +4064,7 @@
       "year": 2013,
       "character": ["Skelita Calaveras"],
       "series": "Art Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDF14",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Art-Class-Skelita-Calaveras.jpg",
@@ -4105,7 +4105,7 @@
       "year": 2013,
       "character": ["Abbey Bominable", "Heath Burns"],
       "series": "Classroom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "BBC82",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Classroom-Abbey-Heath-2-Pack-s.jpg",
@@ -4129,7 +4129,7 @@
       "year": 2013,
       "character": ["Cleo de Nile", "Ghoulia Yelps"],
       "series": "Classroom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBC81",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Classroom-Cleo-Ghoulia-2-pack-s.jpg",
@@ -4153,7 +4153,7 @@
       "year": 2013,
       "character": ["Lagoona Blue", "Operetta", "Robecca Steam", "Rochelle Goyle", "Gillington \"Gil\" Webber"],
       "series": "Dance Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "BBR89",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Dance-Class-5-pack-s.jpg",
@@ -4176,7 +4176,7 @@
       "year": 2013,
       "character": ["Lagoona Blue"],
       "series": "Dead Tired",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR76",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dead-Tired-Lagoona-Blue.jpg",
@@ -4196,7 +4196,7 @@
       "year": 2013,
       "character": ["Robecca Steam"],
       "series": "Dead Tired",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR77",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dead-Tired-Robecca-Steam.jpg",
@@ -4216,7 +4216,7 @@
       "year": 2013,
       "character": ["Spectra Vondergeist"],
       "series": "Dead Tired",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR78",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dead-Tired-Spectra-Vondergeist.jpg",
@@ -4236,7 +4236,7 @@
       "year": 2013,
       "character": ["Meowlody", "Purrsephone", "Toralei Stripe"],
       "series": "Fearleading",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7297",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/fearleading-tor-meow-purr-box.jpg",
@@ -4309,7 +4309,7 @@
       "year": 2013,
       "character": ["Clawdeen Wolf"],
       "series": "Frights, Camera, Action!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDF26",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Frights-Camera-Action-Clawdeen-Wolf.jpg",
@@ -4329,7 +4329,7 @@
       "year": 2013,
       "character": ["Cleo de Nile"],
       "series": "Frights, Camera, Action!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDF25",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Frights-Camera-Action-Cleo-de-Nile.jpg",
@@ -4349,7 +4349,7 @@
       "year": 2013,
       "character": ["Draculaura"],
       "series": "Frights, Camera, Action!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDF23",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Frights-Camera-Action-Draculaura.jpg",
@@ -4369,7 +4369,7 @@
       "year": 2013,
       "character": ["Lagoona Blue"],
       "series": "Frights, Camera, Action!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDF24",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Frights-Camera-Action-Lagoona-Blue.jpg",
@@ -4389,7 +4389,7 @@
       "year": 2013,
       "character": ["Clawdia Wolf"],
       "series": "Frights, Camera, Action!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDD88",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Frights-Camera-Action-Clawdia-Wolf.jpg",
@@ -4411,7 +4411,7 @@
       "year": 2013,
       "character": ["Elissabat"],
       "series": "Frights, Camera, Action!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDD87",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Frights-Camera-Action-Elissabat.jpg",
@@ -4433,7 +4433,7 @@
       "year": 2013,
       "character": ["Honey Swamp"],
       "series": "Frights, Camera, Action!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDD86",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Frights-Camera-Action-Honey-Swamp.jpg",
@@ -4455,7 +4455,7 @@
       "year": 2013,
       "character": ["Viperine Gorgon"],
       "series": "Frights, Camera, Action!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDD85",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Frights-Camera-Action-Viperine-Gorgon.jpg",
@@ -4477,7 +4477,7 @@
       "year": 2013,
       "character": ["Frankie Stein"],
       "series": "Ghoul Spirit",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDF08",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Ghoul-Spirit-Frankie-Stein.jpg",
@@ -4497,7 +4497,7 @@
       "year": 2013,
       "character": ["Sloman \"Slo Mo\" Mortavitch"],
       "series": "Ghoul Spirit",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "BGD87",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Ghoul-Spirit-Sloman-Slo-Mo-Mortavitch-s.jpg",
@@ -4519,7 +4519,7 @@
       "year": 2013,
       "character": ["Spectra Vondergeist"],
       "series": "Ghoul Spirit",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDF10",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Ghoul-Spirit-Spectra-Vondergeist.jpg",
@@ -4539,7 +4539,7 @@
       "year": 2013,
       "character": ["Venus McFlytrap"],
       "series": "Ghoul Spirit",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDF09",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Ghoul-Spirit-Venus-McFlytrap.jpg",
@@ -4559,7 +4559,7 @@
       "year": 2013,
       "character": ["Clawdeen Wolf", "Ghoulia Yelps", "Rochelle Goyle", "Venus McFlytrap"],
       "series": "Ghoul’s Night Out",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR96",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Ghouls-Night-Out-4-pack.jpg",
@@ -4580,7 +4580,7 @@
       "year": 2013,
       "character": ["Lagoona Blue"],
       "series": "Ghoul’s Night Out",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBC11",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Ghouls-Night-Out-Lagoona-Blue.jpg",
@@ -4602,7 +4602,7 @@
       "year": 2013,
       "character": ["Rochelle Goyle"],
       "series": "Ghoul’s Night Out",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBC10",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Ghouls-Night-Out-Rochelle-Goyle.jpg",
@@ -4624,7 +4624,7 @@
       "year": 2013,
       "character": ["Spectra Vondergeist"],
       "series": "Ghoul’s Night Out",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBC12",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Ghouls-Night-Out-Spectra-Vondergeist.jpg",
@@ -4646,7 +4646,7 @@
       "year": 2013,
       "character": ["Clawdeen Wolf"],
       "series": "I Love Fashion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR85",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/I-Love-Fashion-Clawdeen-Wolf.jpg",
@@ -4671,7 +4671,7 @@
       "year": 2013,
       "character": ["Scarah Screams"],
       "series": "I Love Fashion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR86",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/I-Love-Fashion-Scarah-Screams.jpg",
@@ -4696,7 +4696,7 @@
       "year": 2013,
       "character": ["Cleo de Nile"],
       "series": "I Love Shoes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR92",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/I-Love-Shoes-Cleo-De-Nile.jpg",
@@ -4718,7 +4718,7 @@
       "year": 2013,
       "character": ["Draculaura"],
       "series": "I Love Shoes",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR91",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/I-Love-Shoes-Draculaura.jpg",
@@ -4740,7 +4740,7 @@
       "year": 2013,
       "character": ["Catty Noir"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7729",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Catty-Noir-s.jpg",
@@ -4762,7 +4762,7 @@
       "year": 2013,
       "character": ["Draculaura"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7719",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Draculaura-Die-ner-2.jpg",
@@ -4784,7 +4784,7 @@
       "year": 2013,
       "character": ["Draculaura", "Operetta"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR93",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Draculaura-Operetta-Die-ner-box.jpg",
@@ -4805,7 +4805,7 @@
       "year": 2013,
       "character": ["Headless Headmistress Bloodgood"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBK21",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Headless-Headmistress-Bloodgood-s.jpg",
@@ -4854,7 +4854,7 @@
       "year": 2013,
       "character": ["Jane Boolittle"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJF62",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Jane-Boolittle.jpg",
@@ -4874,7 +4874,7 @@
       "year": 2013,
       "character": ["Draculaura"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDC40",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Draculaura-and-Jewelry-Box-Coffin.jpg",
@@ -4932,7 +4932,7 @@
       "year": 2013,
       "character": ["Abbey Bominable"],
       "series": "Music Festival",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7695",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Music-Festival-Abbey-Bominable-2.jpg",
@@ -4954,7 +4954,7 @@
       "year": 2013,
       "character": ["Clawdeen Wolf"],
       "series": "Music Festival",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7693",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Music-Festival-Clawdeen-Wolf.jpg",
@@ -4974,7 +4974,7 @@
       "year": 2013,
       "character": ["Draculaura", "Clawd Wolf"],
       "series": "Music Festival",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "BBR83",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Music-Festival-Draculaura-Clawd-Wolf-s.jpg",
@@ -4997,7 +4997,7 @@
       "year": 2013,
       "character": ["Venus McFlytrap"],
       "series": "Music Festival",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7694",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Music-Festival-Venus-McFlytrap.jpg",
@@ -5017,7 +5017,7 @@
       "year": 2013,
       "character": ["Catrine DeMew"],
       "series": "New Scaremester",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BGD88",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/New-Scaremester-Catrine-DeMew.jpg",
@@ -5039,7 +5039,7 @@
       "year": 2013,
       "character": ["Clawdeen Wolf"],
       "series": "New Scaremester",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDD78",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/New-Scaremester-Clawdeen-Wolf.jpg",
@@ -5061,7 +5061,7 @@
       "year": 2013,
       "character": ["Jinafire Long"],
       "series": "New Scaremester",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDD80",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/New-Scaremester-Jinafire-Long.jpg",
@@ -5083,7 +5083,7 @@
       "year": 2013,
       "character": ["Clawdeen Wolf"],
       "series": "Original Favorites",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBC42",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Clawdeen-Wolf-Original-Favorites.jpg",
@@ -5103,7 +5103,7 @@
       "year": 2013,
       "character": ["Draculaura"],
       "series": "Original Favorites",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBC41",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Draculaura-Original-Favorites1.jpg",
@@ -5123,7 +5123,7 @@
       "year": 2013,
       "character": ["Frankie Stein"],
       "series": "Original Favorites",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBC43",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Frankie-Stein-Original-Favorites.jpg",
@@ -5143,7 +5143,7 @@
       "year": 2013,
       "character": ["Frankie Stein"],
       "series": "Picture Day",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7697",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Picture-Day-Frankie-Stein.jpg",
@@ -5165,7 +5165,7 @@
       "year": 2013,
       "character": ["Lagoona Blue"],
       "series": "Picture Day",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7698",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Picture-Day-Lagoona-Blue.jpg",
@@ -5187,7 +5187,7 @@
       "year": 2013,
       "character": ["Operetta"],
       "series": "Picture Day",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7696",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Picture-Day-Operetta.jpg",
@@ -5215,7 +5215,7 @@
       "year": 2013,
       "character": ["Clawdeen Wolf"],
       "series": "Power Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7299",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Power-Ghouls-Clawdeen-Wolf.jpg",
@@ -5236,7 +5236,7 @@
       "year": 2013,
       "character": ["Frankie Stein"],
       "series": "Power Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR88",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Power-Ghouls-Frankie-Stein.jpg",
@@ -5257,7 +5257,7 @@
       "year": 2013,
       "character": ["Spectra Vondergeist"],
       "series": "Power Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7300",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Power-Ghouls-Spectra-Vondergeist.jpg",
@@ -5278,7 +5278,7 @@
       "year": 2013,
       "character": ["Toralei Stripe"],
       "series": "Power Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7301",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Power-Ghouls-Toralei-Stripe.jpg",
@@ -5299,7 +5299,7 @@
       "year": 2013,
       "character": ["Wydowna Spider"],
       "series": "Power Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7307",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Wydowna-Spider-Webarella.jpg",
@@ -5330,7 +5330,7 @@
       "year": 2013,
       "character": ["Catrine DeMew"],
       "series": "Scaris: City of Frights",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7295",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Scaris-Catrine-DeMew.jpg",
@@ -5353,7 +5353,7 @@
       "year": 2013,
       "character": ["Cleo de Nile", "Lagoona Blue"],
       "series": "Scaris: City of Frights",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7296",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Scaris-Lagoona-Blue-Cleo-de-Nile-s.jpg",
@@ -5378,7 +5378,7 @@
       "year": 2013,
       "character": ["Clawdeen Wolf"],
       "series": "Sweet 1600",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BCW55",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Sweet-1600-Clawdeen-Wolf-Walmart.jpg",
@@ -5399,7 +5399,7 @@
       "year": 2013,
       "character": ["Draculaura"],
       "series": "Sweet 1600",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BCW53",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Sweet-1600-Draculaura-Walmart.jpg",
@@ -5420,7 +5420,7 @@
       "year": 2013,
       "character": ["Frankie Stein"],
       "series": "Sweet 1600",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BCW54",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Sweet-1600-Frankie-Stein-Walmart.jpg",
@@ -5441,7 +5441,7 @@
       "year": 2013,
       "character": ["Draculaura"],
       "series": "Sweet Screams",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BHN01",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Sweet-Screams-Draculaura.jpg",
@@ -5464,7 +5464,7 @@
       "year": 2013,
       "character": ["Frankie Stein"],
       "series": "Sweet Screams",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BHN02",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Sweet-Screams-Frankie-Stein.jpg",
@@ -5487,7 +5487,7 @@
       "year": 2013,
       "character": ["Draculaura"],
       "series": "Swim Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7303",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Swim-Class-Draculaura.jpg",
@@ -5509,7 +5509,7 @@
       "year": 2013,
       "character": ["Frankie Stein"],
       "series": "Swim Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR80",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Swim-Class-Frankie-Stein.jpg",
@@ -5530,7 +5530,7 @@
       "year": 2013,
       "character": ["Holt Hyde"],
       "series": "Swim Class",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "BBR82",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Swim-Class-Holt-Hyde.jpg",
@@ -5551,7 +5551,7 @@
       "year": 2013,
       "character": ["Lagoona Blue"],
       "series": "Swim Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7305",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Swim-Class-Lagoona-Blue.jpg",
@@ -5573,7 +5573,7 @@
       "year": 2013,
       "character": ["Rochelle Goyle"],
       "series": "Swim Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BBR81",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Swim-Class-Rochelle-Goyle.jpg",
@@ -5594,7 +5594,7 @@
       "year": 2013,
       "character": ["Venus McFlytrap"],
       "series": "Swim Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "Y7304",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Swim-Class-Venus-McFlytrap.jpg",
@@ -5774,7 +5774,7 @@
       "year": 2014,
       "character": ["Nefera de Nile"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKC65",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-City-Schemes-Nefera-de-Nile.jpg",
@@ -5798,7 +5798,7 @@
       "year": 2014,
       "character": ["Abbey Bominable"],
       "series": "Coffin Bean",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BHN05",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Coffin-Bean-Abbey-Bominable.jpg",
@@ -5818,7 +5818,7 @@
       "year": 2014,
       "character": ["Frankie Stein"],
       "series": "Coffin Bean",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BHN04",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Coffin-Bean-Frankie-Stein.jpg",
@@ -5838,7 +5838,7 @@
       "year": 2014,
       "character": ["Robecca Steam"],
       "series": "Coffin Bean",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX48",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Coffin-Bean-Robecca-Steam.jpg",
@@ -5858,7 +5858,7 @@
       "year": 2014,
       "character": ["Toralei Stripe"],
       "series": "Coffin Bean",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BHN06",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Coffin-Bean-Toralei-Stripe.jpg",
@@ -5878,7 +5878,7 @@
       "year": 2014,
       "character": ["Twyla"],
       "series": "Coffin Bean",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX49",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Coffin-Bean-Twyla.jpg",
@@ -5898,7 +5898,7 @@
       "year": 2014,
       "character": ["Venus McFlytrap"],
       "series": "Coffin Bean",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX50",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Coffin-Bean-Venus-McFlytrap.jpg",
@@ -5918,7 +5918,7 @@
       "year": 2014,
       "character": ["Cleo de Nile"],
       "series": "Creepateria",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJM18",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Creepateria-Cleo-de-Nile.jpg",
@@ -5940,7 +5940,7 @@
       "year": 2014,
       "character": ["Draculaura"],
       "series": "Creepateria",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJM19",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Creepateria-Draculaura.jpg",
@@ -5962,7 +5962,7 @@
       "year": 2014,
       "character": ["Howleen Wolf"],
       "series": "Creepateria",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJM20",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Creepateria-Howleen-Wolf.jpg",
@@ -5984,7 +5984,7 @@
       "year": 2014,
       "character": ["Cleo de Nile", "Howleen Wolf"],
       "series": "Creepateria",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX75",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Creepateria-Cleo-de-Nile-Howleen-Wolf-box.jpg",
@@ -6004,7 +6004,7 @@
       "year": 2014,
       "character": ["Clawdeen Wolf", "Draculaura", "Frankie Stein"],
       "series": "Dawn of the Dance",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "V7967",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dawn-of-the-Dance-3-Pack-acc.jpg",
@@ -6027,7 +6027,7 @@
       "year": 2014,
       "character": ["Cleo de Nile"],
       "series": "Dawn of the Dance",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX64",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dawn-Dance-Cleo-De-Nile-reissue.jpg",
@@ -6047,7 +6047,7 @@
       "year": 2014,
       "character": ["Frankie Stein"],
       "series": "Dawn of the Dance",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX62",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/01/Dawn-Dance-Frankie-Stein-reissue.jpg",
@@ -6067,7 +6067,7 @@
       "year": 2014,
       "character": ["Lagoona Blue"],
       "series": "Dawn of the Dance",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX63",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/03/Dawn-Dance-Lagoona-Blue-reissue.jpg",
@@ -6087,7 +6087,7 @@
       "year": 2014,
       "character": ["Clawdeen Wolf"],
       "series": "Freaky Field Trip",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CFC76",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Freaky-Field-Trip-Clawdeen-Wolf.jpg",
@@ -6109,7 +6109,7 @@
       "year": 2014,
       "character": ["Gigi Grant"],
       "series": "Freaky Field Trip",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CFC75",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Freaky-Field-Trip-Gigi-Grant.jpg",
@@ -6131,7 +6131,7 @@
       "year": 2014,
       "character": ["Toralei Stripe"],
       "series": "Freaky Field Trip",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CFC77",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Freaky-Field-Trip-Toralei-Stripe.jpg",
@@ -6179,7 +6179,7 @@
       "year": 2014,
       "character": ["Frankie Stein"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR46",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Freaky-Fusion-Frankie-Stein-Recharge-Chamber-1.jpg",
@@ -6207,7 +6207,7 @@
       "year": 2014,
       "character": ["Frankie Stein"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBP35",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Fusion-Inspired-Ghouls-Frankie-Stein.jpg",
@@ -6229,7 +6229,7 @@
       "year": 2014,
       "character": ["Ghoulia Yelps"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBP36",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Fusion-Inspired-Ghouls-Ghoulia-Yelps.jpg",
@@ -6251,7 +6251,7 @@
       "year": 2014,
       "character": ["Operetta"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBP37",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Fusion-Inspired-Ghouls-Operetta.jpg",
@@ -6273,7 +6273,7 @@
       "year": 2014,
       "character": ["Scarah Screams"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX24",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Fusion-Inspired-Ghouls-Scarah-Screams.jpg",
@@ -6295,7 +6295,7 @@
       "year": 2014,
       "character": ["Clawdeen Wolf"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX39",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Save-Frankie-Clawdeen-Wolf.jpg",
@@ -6318,7 +6318,7 @@
       "year": 2014,
       "character": ["Draculaura"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX40",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Save-Frankie-Draculaura.jpg",
@@ -6341,7 +6341,7 @@
       "year": 2014,
       "character": ["Jackson Jekyll"],
       "series": "Freaky Fusion",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "CBY83",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Save-Frankie-Jackson-Jekyll.jpg",
@@ -6364,7 +6364,7 @@
       "year": 2014,
       "character": ["Avea Trotter"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR43",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Freaky-Fusion-Hybrids-Avea-Trotter-1.jpg",
@@ -6386,7 +6386,7 @@
       "year": 2014,
       "character": ["Bonita Femur"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBG63",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Freaky-Fusion-Hybrids-Bonita-Femur-2.jpg",
@@ -6410,7 +6410,7 @@
       "year": 2014,
       "character": ["Sirena Von Boo"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR42",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Freaky-Fusion-Hybrids-Sirena-Von-Boo.jpg",
@@ -6430,7 +6430,7 @@
       "year": 2014,
       "character": ["Clawdeen Wolf"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR40",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Freaky-Fusions-Clawvenus.jpg",
@@ -6450,7 +6450,7 @@
       "year": 2014,
       "character": ["Cleo de Nile"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR39",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Freaky-Fusions-Cleolei.jpg",
@@ -6470,7 +6470,7 @@
       "year": 2014,
       "character": ["Draculaura"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR38",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Freaky-Fusions-Dracubecca.jpg",
@@ -6490,7 +6490,7 @@
       "year": 2014,
       "character": ["Jinafire Long"],
       "series": "Freaky Fusion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR37",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Freaky-Fusions-Lagoonafire.jpg",
@@ -6510,7 +6510,7 @@
       "year": 2014,
       "character": ["Neighthan Rot"],
       "series": "Freaky Fusion",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "CBP33",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Freaky-Fusions-Neighthan-Rot.jpg",
@@ -6530,7 +6530,7 @@
       "year": 2014,
       "character": ["Operetta"],
       "series": "Frights, Camera, Action!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BHM96",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Frights-Camera-Action-Operetta.jpg",
@@ -6553,7 +6553,7 @@
       "year": 2014,
       "character": ["Abbey Bominable"],
       "series": "Geek Shriek",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CGG93",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Geek-Shriek-Abbey-Bominable.jpg",
@@ -6573,7 +6573,7 @@
       "year": 2014,
       "character": ["Frankie Stein"],
       "series": "Geek Shriek",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CGG94",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Geek-Shriek-Frankie-Stein.jpg",
@@ -6593,7 +6593,7 @@
       "year": 2014,
       "character": ["Howleen Wolf"],
       "series": "Geek Shriek",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CGG95",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Geek-Shriek-Howleen-Wolf.jpg",
@@ -6613,7 +6613,7 @@
       "year": 2014,
       "character": ["Clawdeen Wolf"],
       "series": "Ghoul Sports",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR12",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Ghoul-Sports-Clawdeen-Wolf.jpg",
@@ -6637,7 +6637,7 @@
       "year": 2014,
       "character": ["Spectra Vondergeist"],
       "series": "Ghoul Sports",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR13",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Ghoul-Sports-Spectra-Vondergeist-1.jpg",
@@ -6661,7 +6661,7 @@
       "year": 2014,
       "character": ["Toralei Stripe"],
       "series": "Ghoul Sports",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR14",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Ghoul-Sports-Toralei-Stripe-1.jpg",
@@ -6685,7 +6685,7 @@
       "year": 2014,
       "character": ["Toralei Stripe"],
       "series": "Ghoul’s Alive!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BGW08, CBL25",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghouls-Alive-Toralei-Stripe.jpg",
@@ -6705,7 +6705,7 @@
       "year": 2014,
       "character": ["Deuce Gorgon"],
       "series": "Ghoul’s Alive!",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "BDD93, CBL24",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Ghouls-Alive-Deuce-Gorgon.jpg",
@@ -6725,7 +6725,7 @@
       "year": 2014,
       "character": ["Robecca Steam"],
       "series": "Ghoul’s Alive!",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BDD92",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/Ghouls-Alive-Robecca-Steam-1.jpg",
@@ -6753,7 +6753,7 @@
       "year": 2014,
       "character": ["Catrine DeMew"],
       "series": "Gloom and Bloom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC08",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Gloom-and-Bloom-Catrine-DeMew.jpg",
@@ -6775,7 +6775,7 @@
       "year": 2014,
       "character": ["Cleo de Nile"],
       "series": "Gloom and Bloom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CGH94",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Gloom-and-Bloom-Cleo-de-Nile.jpg",
@@ -6798,7 +6798,7 @@
       "year": 2014,
       "character": ["Jane Boolittle"],
       "series": "Gloom and Bloom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC06",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Gloom-and-Bloom-Jane-Boolittle.jpg",
@@ -6820,7 +6820,7 @@
       "year": 2014,
       "character": ["Jinafire Long"],
       "series": "Gloom and Bloom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CGH95",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Gloom-and-Bloom-Jinafire-Long.jpg",
@@ -6843,7 +6843,7 @@
       "year": 2014,
       "character": ["Venus McFlytrap"],
       "series": "Gloom and Bloom",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC07",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Gloom-and-Bloom-Venus-McFlytrap.jpg",
@@ -6866,7 +6866,7 @@
       "year": 2014,
       "character": ["Clawdeen Wolf"],
       "series": "Haunted",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC25",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Getting-Ghostly-Clawdeen-Wolf.jpg",
@@ -6888,7 +6888,7 @@
       "year": 2014,
       "character": ["Draculaura"],
       "series": "Haunted",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC26",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Getting-Ghostly-Draculaura.jpg",
@@ -6910,7 +6910,7 @@
       "year": 2014,
       "character": ["Spectra Vondergeist"],
       "series": "Haunted",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DGB30",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Getting-Ghostly-Spectra-Vondergeist.jpg",
@@ -6930,7 +6930,7 @@
       "year": 2014,
       "character": ["Twyla"],
       "series": "Haunted",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC28",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Getting-Ghostly-Twyla.jpg",
@@ -6952,7 +6952,7 @@
       "year": 2014,
       "character": ["Kiyomi Haunterly"],
       "series": "Haunted",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC33",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Student-Spirits-Kiyomi-Haunterly.jpg",
@@ -6974,7 +6974,7 @@
       "year": 2014,
       "character": ["Porter \"Paintergeist\" Geiss"],
       "series": "Haunted",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "CGV19",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Student-Spirits-Porter-Paintergeist-Geiss.jpg",
@@ -6996,7 +6996,7 @@
       "year": 2014,
       "character": ["River Styxx"],
       "series": "Haunted",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC32",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Student-Spirits-River-Styxx.jpg",
@@ -7018,7 +7018,7 @@
       "year": 2014,
       "character": ["Vandala Doubloons"],
       "series": "Haunted",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC31",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Student-Spirits-Vandala-Doubloons.jpg",
@@ -7040,7 +7040,7 @@
       "year": 2014,
       "character": ["Cleo de Nile"],
       "series": "I Love Fashion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BHM98",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/I-Love-Fashion-Cleo-de-Nile.jpg",
@@ -7065,7 +7065,7 @@
       "year": 2014,
       "character": ["Venus McFlytrap"],
       "series": "I Love Fashion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BHM99",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/I-Love-Fashion-Venus-McFlytrap.jpg",
@@ -7090,7 +7090,7 @@
       "year": 2014,
       "character": ["Wydowna Spider"],
       "series": "I Love Fashion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX44",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/I-Love-Fashion-Wydowna-Spider.jpg",
@@ -7115,7 +7115,7 @@
       "year": 2014,
       "character": ["Clawdeen Wolf", "Clawdia Wolf", "Howleen Wolf", "Clawd Wolf"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "CBX41",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/A-Pack-of-Trouble-4-Pack-box.jpg",
@@ -7136,7 +7136,7 @@
       "year": 2014,
       "character": ["Casta Fierce"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CFV34",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Casta-Fierce.jpg",
@@ -7158,7 +7158,7 @@
       "year": 2014,
       "character": ["Draculaura"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BGT61",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/Draculocker-box-2.jpg",
@@ -7184,7 +7184,7 @@
       "year": 2014,
       "character": ["Catrine DeMew", "Rochelle Goyle"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX57",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Ghoul-Chat-Rochelle-Goyle-Catrine-DeMew.jpg",
@@ -7207,7 +7207,7 @@
       "year": 2014,
       "character": ["Iris Clops", "Manny Taur"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "BHN07",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/SDCC-Manny-Taur-Iris-Clops-s.jpg",
@@ -7238,7 +7238,7 @@
       "year": 2014,
       "character": ["Deuce Gorgon", "Gillington \"Gil\" Webber"],
       "series": "Miscellaneous",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "CBX42",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Manster-Gillington-Webber-Deuce-Gorgon-2-Pack-s.jpg",
@@ -7263,7 +7263,7 @@
       "year": 2014,
       "character": ["Frankie Stein", "Jackson Jekyll"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "BHM97",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Picnic-Casket-for-2-Frankie-Stein-Jackson-Jekyll-3.jpg",
@@ -7288,7 +7288,7 @@
       "year": 2014,
       "character": ["Cleo de Nile", "Gilda Goldstag", "Lagoona Blue", "Scarah Screams", "Sloman Slo Mo Mortavitch"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "CBX43",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/We-Are-Monster-High-Sloman-Mortavitch.jpg",
@@ -7319,7 +7319,7 @@
       "year": 2014,
       "character": ["Draculaura"],
       "series": "Monster Exchange",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC35",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Monster-Exchange-Draculaura.jpg",
@@ -7341,7 +7341,7 @@
       "year": 2014,
       "character": ["Lagoona Blue"],
       "series": "Monster Exchange",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC37",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Monster-Exchange-Lagoona-Blue.jpg",
@@ -7363,7 +7363,7 @@
       "year": 2014,
       "character": ["Lorna McNessie"],
       "series": "Monster Exchange",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC36",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Monster-Exchange-Lorna-McNessie.jpg",
@@ -7385,7 +7385,7 @@
       "year": 2014,
       "character": ["Marisol Coxi"],
       "series": "Monster Exchange",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC38",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Monster-Exchange-Marisol-Coxi.jpg",
@@ -7407,7 +7407,7 @@
       "year": 2014,
       "character": ["Catty Noir"],
       "series": "New Scaremester",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJM43",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/New-Scaremester-Catty-Noir.jpg",
@@ -7429,7 +7429,7 @@
       "year": 2014,
       "character": ["Gigi Grant"],
       "series": "New Scaremester",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJM41",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/New-Scaremester-Gigi-Grant.jpg",
@@ -7451,7 +7451,7 @@
       "year": 2014,
       "character": ["Invisi Billy"],
       "series": "New Scaremester",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "BJM44",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/New-Scaremester-Invisi-Billy.jpg",
@@ -7471,7 +7471,7 @@
       "year": 2014,
       "character": ["Twyla"],
       "series": "New Scaremester",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJM42",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/New-Scaremester-Twyla.jpg",
@@ -7493,7 +7493,7 @@
       "year": 2014,
       "character": ["Clawdeen Wolf"],
       "series": "Original Ghouls Collection",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CFC62",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Clawdeen-Wolf-Original-Ghouls.jpg",
@@ -7513,7 +7513,7 @@
       "year": 2014,
       "character": ["Cleo de Nile"],
       "series": "Original Ghouls Collection",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CFC65",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Cleo-de-Nile-Original-Favorites.jpg",
@@ -7533,7 +7533,7 @@
       "year": 2014,
       "character": ["Draculaura"],
       "series": "Original Ghouls Collection",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CFC61",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Draculaura-Original-Ghouls1.jpg",
@@ -7553,7 +7553,7 @@
       "year": 2014,
       "character": ["Frankie Stein"],
       "series": "Original Ghouls Collection",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CFC63",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Frankie-Stein-Original-Ghouls-s.jpg",
@@ -7575,7 +7575,7 @@
       "year": 2014,
       "character": ["Operetta"],
       "series": "Scaritage",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX73",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Scaritage-Operetta.jpg",
@@ -7595,7 +7595,7 @@
       "year": 2014,
       "character": ["Skelita Calaveras"],
       "series": "Scaritage",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX72",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Scaritage-Skelita-Calaveras.jpg",
@@ -7657,7 +7657,7 @@
       "year": 2014,
       "character": ["Abbey Bominable"],
       "series": "Sweet Screams",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX45",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Sweet-Screams-Abbey-Bominable.jpg",
@@ -7680,7 +7680,7 @@
       "year": 2014,
       "character": ["Ghoulia Yelps"],
       "series": "Sweet Screams",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX46",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Sweet-Screams-Ghoulia-Yelps.jpg",
@@ -7703,7 +7703,7 @@
       "year": 2014,
       "character": ["Clawdeen Wolf"],
       "series": "Swim Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX54",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Swim-Class-Clawdeen-Wolf.jpg",
@@ -7724,7 +7724,7 @@
       "year": 2014,
       "character": ["Jinafire Long"],
       "series": "Swim Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX56",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Swim-Class-Jinafire-Long.jpg",
@@ -7745,7 +7745,7 @@
       "year": 2014,
       "character": ["Spectra Vondergeist"],
       "series": "Swim Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CBX55",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Swim-Class-Spectra-Vondergeist.jpg",
@@ -7766,7 +7766,7 @@
       "year": 2014,
       "character": ["Meowlody", "Purrsephone"],
       "series": "Zombie Shake",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR16",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Zombie-Shake-Meowlody-Purrsephone-s.jpg",
@@ -7794,7 +7794,7 @@
       "year": 2014,
       "character": ["Rochelle Goyle", "Venus McFlytrap"],
       "series": "Zombie Shake",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "BJR17",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/06/Zombie-Shake-Rochelle-Goyle-Venus-McFlytrap-s.jpg",
@@ -8009,7 +8009,7 @@
       "year": 2015,
       "character": ["Clawdeen Wolf"],
       "series": "Basic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNB78",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Budget-Clawdeen-Wolf-1.jpg",
@@ -8031,7 +8031,7 @@
       "year": 2015,
       "character": ["Draculaura"],
       "series": "Basic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DKY18",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Budget-Draculaura-1.jpg",
@@ -8053,7 +8053,7 @@
       "year": 2015,
       "character": ["Frankie Stein"],
       "series": "Basic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DKY20",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Budget-Frankie-Stein-1.jpg",
@@ -8075,7 +8075,7 @@
       "year": 2015,
       "character": ["Gigi Grant"],
       "series": "Basic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DKY19",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Budget-Gigi-Grant-1.jpg",
@@ -8099,7 +8099,7 @@
       "year": 2015,
       "character": ["Elle Eedee", "Luna Mothews", "Mouscedes King"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CMJ90",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-City-Ghouls-3-Pack-s.jpg",
@@ -8121,7 +8121,7 @@
       "year": 2015,
       "character": ["Cleo de Nile", "Deuce Gorgon"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "CHW60",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-Comet-Crossed-Couple-2-Pack.jpg",
@@ -8145,7 +8145,7 @@
       "year": 2015,
       "character": ["Astranova"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW58",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-Floatation-Station-Astranova.jpg",
@@ -8171,7 +8171,7 @@
       "year": 2015,
       "character": ["Catty Noir", "Clawdeen Wolf", "Draculaura"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-Out-of-Tombers-3-Pack-s.jpg",
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-Out-of-Tombers-3-Pack-box.jpg",
@@ -8193,7 +8193,7 @@
       "year": 2015,
       "character": ["Catty Noir", "Clawdeen Wolf", "Draculaura"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CJF27",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-City-Schemes-Catty-Noir.jpg",
@@ -8218,7 +8218,7 @@
       "year": 2015,
       "character": ["Clawdeen Wolf"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW54",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-Frightseers-Clawdeen-Wolf.jpg",
@@ -8240,7 +8240,7 @@
       "year": 2015,
       "character": ["Draculaura"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW55",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-Frightseers-Draculaura.jpg",
@@ -8262,7 +8262,7 @@
       "year": 2015,
       "character": ["Operetta"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW56",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-Frightseers-Operetta.jpg",
@@ -8284,7 +8284,7 @@
       "year": 2015,
       "character": ["Elle Eedee"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW63",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-Elle-Eedee.jpg",
@@ -8306,7 +8306,7 @@
       "year": 2015,
       "character": ["Luna Mothews"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW62",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-Luna-Mothews.jpg",
@@ -8328,7 +8328,7 @@
       "year": 2015,
       "character": ["Mouscedes King"],
       "series": "Boo York, Boo York",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW61",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Boo-York-Mouscedes-King-s.jpg",
@@ -8352,7 +8352,7 @@
       "year": 2015,
       "character": ["Batsy Claro"],
       "series": "Brand-Boo Students",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHL41",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Brand-Boo-Students-Batsy-Claro.jpg",
@@ -8376,7 +8376,7 @@
       "year": 2015,
       "character": ["Isi Dawndancer"],
       "series": "Brand-Boo Students",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CJC61",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Brand-Boo-Students-Isi-Dawndancer.jpg",
@@ -8398,7 +8398,7 @@
       "year": 2015,
       "character": ["Kjersti Trollson"],
       "series": "Brand-Boo Students",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CJC62",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Brand-Boo-Students-Kjersti-Trollson.jpg",
@@ -8420,7 +8420,7 @@
       "year": 2015,
       "character": ["Catrine DeMew"],
       "series": "Fangtastic Fitness",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW76",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Fangtastic-Fitness-Catrine-DeMew.jpg",
@@ -8442,7 +8442,7 @@
       "year": 2015,
       "character": ["Lagoona Blue"],
       "series": "Fangtastic Fitness",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW75",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Fangtastic-Fitness-Lagoona-Blue.jpg",
@@ -8464,7 +8464,7 @@
       "year": 2015,
       "character": ["Venus McFlytrap"],
       "series": "Fangtastic Fitness",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW77",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Fangtastic-Fitness-Venus-McFlytrap.jpg",
@@ -8486,7 +8486,7 @@
       "year": 2015,
       "character": ["Rochelle Goyle"],
       "series": "Freak Du Chic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW68",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Freak-Du-Chic-Rochelle-Goyle-1.jpg",
@@ -8514,7 +8514,7 @@
       "year": 2015,
       "character": ["Clawdeen Wolf"],
       "series": "Freak Du Chic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD75",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Freak-Du-Chic-Clawdeen-Wolf.jpg",
@@ -8541,7 +8541,7 @@
       "year": 2015,
       "character": ["Frankie Stein"],
       "series": "Freak Du Chic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHX98",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Freak-Du-Chic-Frankie-Stein.jpg",
@@ -8565,7 +8565,7 @@
       "year": 2015,
       "character": ["Gooliope Jellington"],
       "series": "Freak Du Chic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW59",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Freak-Du-Chic-Gooliope-Jellington.jpg",
@@ -8593,7 +8593,7 @@
       "year": 2015,
       "character": ["Honey Swamp"],
       "series": "Freak Du Chic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHX93",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Freak-Du-Chic-Honey-Swamp.jpg",
@@ -8619,7 +8619,7 @@
       "year": 2015,
       "character": ["Jinafire Long"],
       "series": "Freak Du Chic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHX96",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Freak-Du-Chic-Jinafire-Long-s.jpg",
@@ -8645,7 +8645,7 @@
       "year": 2015,
       "character": ["Toralei Stripe"],
       "series": "Freak Du Chic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHX99",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Freak-Du-Chic-Toralei-Stripe.jpg",
@@ -8669,7 +8669,7 @@
       "year": 2015,
       "character": ["Twyla"],
       "series": "Freak Du Chic",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD76",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Freak-Du-Chic-Twyla.jpg",
@@ -8694,7 +8694,7 @@
       "year": 2015,
       "character": ["Clawdeen Wolf"],
       "series": "Frightfully Tall Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DHC41",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Frightfully-Tall-Ghouls-Clawdeen-Wolf.jpg",
@@ -8716,7 +8716,7 @@
       "year": 2015,
       "character": ["Draculaura"],
       "series": "Frightfully Tall Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DHC42",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Frightfully-Tall-Ghouls-Draculaura.jpg",
@@ -8738,7 +8738,7 @@
       "year": 2015,
       "character": ["Elissabat"],
       "series": "Frightfully Tall Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNB79",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Frightfully-Tall-Ghouls-Elissabat.jpg",
@@ -8759,7 +8759,7 @@
       "year": 2015,
       "character": ["Frankie Stein"],
       "series": "Frightfully Tall Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DHC43",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Frightfully-Tall-Ghouls-Frankie-Stein.jpg",
@@ -8781,7 +8781,7 @@
       "year": 2015,
       "character": ["Catty Noir"],
       "series": "Geek Shriek",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD79",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/03/Geek-Shriek-Catty-Noir.jpg",
@@ -8801,7 +8801,7 @@
       "year": 2015,
       "character": ["Ghoulia Yelps"],
       "series": "Geek Shriek",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD78",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/03/Geek-Shriek-Ghoulia-Yelps.jpg",
@@ -8821,7 +8821,7 @@
       "year": 2015,
       "character": ["Gigi Grant"],
       "series": "Geek Shriek",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD80",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/03/Geek-Shriek-Gigi-Grant.jpg",
@@ -8841,7 +8841,7 @@
       "year": 2015,
       "character": ["Elissabat"],
       "series": "Ghoul Fair",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW71",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Ghoul-Fair-Elissabat.jpg",
@@ -8863,7 +8863,7 @@
       "year": 2015,
       "character": ["Heath Burns"],
       "series": "Ghoul Fair",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "CHW72",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Ghoul-Fair-Heath-Burns.jpg",
@@ -8885,7 +8885,7 @@
       "year": 2015,
       "character": ["Howleen Wolf"],
       "series": "Ghoul Fair",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW70",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Ghoul-Fair-Howleen-Wolf.jpg",
@@ -8907,7 +8907,7 @@
       "year": 2015,
       "character": ["Scarah Screams"],
       "series": "Ghoul Fair",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW73",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Ghoul-Fair-Scarah-Screams.jpg",
@@ -8929,7 +8929,7 @@
       "year": 2015,
       "character": ["Elissabat"],
       "series": "Ghouls’ Getaway",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DKY00",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Ghouls-Getaway-Elissabat-1.jpg",
@@ -8956,7 +8956,7 @@
       "year": 2015,
       "character": ["Jane Boolittle"],
       "series": "Ghouls’ Getaway",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DKX99",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Ghouls-Getaway-Jane-Boolittle-1.jpg",
@@ -8983,7 +8983,7 @@
       "year": 2015,
       "character": ["Jinafire Long"],
       "series": "Ghouls’ Getaway",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DKX95",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Ghouls-Getaway-Jinafire-Long-1.jpg",
@@ -9007,7 +9007,7 @@
       "year": 2015,
       "character": ["Meowlody"],
       "series": "Ghouls’ Getaway",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DKX96",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Ghouls-Getaway-Meowledy-1.jpg",
@@ -9030,7 +9030,7 @@
       "year": 2015,
       "character": ["Spectra Vondergeist"],
       "series": "Ghouls’ Getaway",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DKX97",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Ghouls-Getaway-Spectra-Vondergeist.jpg",
@@ -9054,7 +9054,7 @@
       "year": 2015,
       "character": ["Honey Swamp"],
       "series": "Gore-geous Accessories",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD10",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Gore-geous-Honey-Swamp.jpg",
@@ -9078,7 +9078,7 @@
       "year": 2015,
       "character": ["Robecca Steam"],
       "series": "Gore-geous Accessories",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD09",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Gore-geous-Robecca-Steam.jpg",
@@ -9102,7 +9102,7 @@
       "year": 2015,
       "character": ["Peri & Pearl Serpentine"],
       "series": "Great Scarrier Reef",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DHB47",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Great-Scarrier-Reef-Peri-Pearl-Serpentine.jpg",
@@ -9124,7 +9124,7 @@
       "year": 2015,
       "character": ["Kala Mer'ri"],
       "series": "Great Scarrier Reef",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DHB49",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Great-Scarrier-Reef-Kala-Merri.jpg",
@@ -9148,7 +9148,7 @@
       "year": 2015,
       "character": ["Posea Reef"],
       "series": "Great Scarrier Reef",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DHB48",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Great-Scarrier-Reef-Posea-Reef.jpg",
@@ -9172,7 +9172,7 @@
       "year": 2015,
       "character": ["Clawdeen Wolf"],
       "series": "Great Scarrier Reef",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DHB53",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Great-Scarrier-Reef-Clawdeen-Wolf-s.jpg",
@@ -9197,7 +9197,7 @@
       "year": 2015,
       "character": ["Draculaura"],
       "series": "Great Scarrier Reef",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DHB54",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Great-Scarrier-Reef-Draculaura.jpg",
@@ -9219,7 +9219,7 @@
       "year": 2015,
       "character": ["Frankie Stein"],
       "series": "Great Scarrier Reef",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DHB55",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Great-Scarrier-Reef-Frankie-Stein.jpg",
@@ -9241,7 +9241,7 @@
       "year": 2015,
       "character": ["Lagoona Blue"],
       "series": "Great Scarrier Reef",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DHB56",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Great-Scarrier-Reef-Lagoona-Blue.jpg",
@@ -9265,7 +9265,7 @@
       "year": 2015,
       "character": ["Toralei Stripe"],
       "series": "Great Scarrier Reef",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DHH36",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Great-Scarrier-Reef-Toralei-Stripe.jpg",
@@ -9287,7 +9287,7 @@
       "year": 2015,
       "character": ["Rochelle Goyle"],
       "series": "Haunted",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CDC27",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/07/Student-Spirits-Rochelle-Goyle.jpg",
@@ -9310,7 +9310,7 @@
       "year": 2015,
       "character": ["Iris Clops"],
       "series": "I Love Fashion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD73",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/I-Love-Fashion-Iris-Clops.jpg",
@@ -9333,7 +9333,7 @@
       "year": 2015,
       "character": ["Amanita Nightshade"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKP50",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Amanita-Nightshade.jpg",
@@ -9379,7 +9379,7 @@
       "year": 2015,
       "character": ["Frankie Stein"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNM27",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Designer-Booo-Tique-Frankie-Stein-1.jpg",
@@ -9405,7 +9405,7 @@
       "year": 2015,
       "character": ["Draculaura"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CHW66",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Draculaura-Collector-Doll-s.jpg",
@@ -9440,7 +9440,7 @@
       "year": 2015,
       "character": ["Finnegan Wake"],
       "series": "Miscellaneous",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "CKT04",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Finnegan-Wake.jpg",
@@ -9473,7 +9473,7 @@
       "year": 2015,
       "character": ["Catty Noir", "Elissabat", "Viperine Gorgon"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CGF51",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Ghoulebrities-in-Londoom-3-pack-xs.jpg",
@@ -9500,7 +9500,7 @@
       "year": 2015,
       "character": ["Djinni \"Whisp\" Grant",  "Kieran Valentine"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "CGN14",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Kieran-Valentine-Djinni-Whisp-Grant.jpg",
@@ -9533,7 +9533,7 @@
       "year": 2015,
       "character": ["Rochelle Goyle", "Garrott du Roque"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "CGH17",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Love-in-Scaris-2-Pack-s.jpg",
@@ -9560,7 +9560,7 @@
       "year": 2015,
       "character": ["Ghoulia Yelps", "Sloman Slo Mo Mortavitch"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "CKD81",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Loves-Not-Dead-2-Pack-s.jpg",
@@ -9585,7 +9585,7 @@
       "year": 2015,
       "character": ["Clawdeen Wolf", "Draculaura", "Gigi Grant", "Spectra Vondergeist", "Invisi Billy"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "CKD02",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Maul-Monsteristas-5-Pack-box-2.jpg",
@@ -9610,7 +9610,7 @@
       "year": 2015,
       "character": ["Clawdeen Wolf", "Viperine Gorgon"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD05",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Scare-Makeup-2-Pack-s.jpg",
@@ -9637,7 +9637,7 @@
       "year": 2015,
       "character": ["Lagoona Blue", "Gillington \"Gil\" Webber"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "CJC47",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/07/Wheel-Love-2-Pack-Box-2.jpg",
@@ -9661,7 +9661,7 @@
       "year": 2015,
       "character": ["Meowlody", "Purrsephone"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD71",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Wheelin-Werecats-Scooter-Playset-box.jpg",
@@ -9688,7 +9688,7 @@
       "year": 2015,
       "character": ["Clawdeen Wolf", "Cleo de Nile", "Draculaura", "Frankie Stein", "Ghoulia Yelps", "Lagoona Blue"],
       "series": "Original Ghouls Collection",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/02/Original-Ghouls-Collection-6-Pack-Box.jpg",
         "https://mhcollector.com/wp-content/uploads/2015/02/Original-Ghouls-Collection-6-Pack.jpg"
@@ -9707,7 +9707,7 @@
       "year": 2015,
       "character": ["Clawd Wolf"],
       "series": "Scarnival",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "CKD70",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Scarnival-Clawd-Wolf.jpg",
@@ -9731,7 +9731,7 @@
       "year": 2015,
       "character": ["Draculaura"],
       "series": "Scarnival",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD68",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Scarnival-Draculaura.jpg",
@@ -9755,7 +9755,7 @@
       "year": 2015,
       "character": ["Skelita Calaveras"],
       "series": "Scarnival",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "CKD69",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/04/Scarnival-Skelita-Calaveras.jpg",
@@ -9830,7 +9830,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Day-To-Night Fashion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DRL75",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Day-To-Night-Fashion-Draculaura-1.jpg",
@@ -9854,7 +9854,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "Day-To-Night Fashion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DRL76",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Day-To-Night-Fashion-Frankie-Stein-1.jpg",
@@ -9878,7 +9878,7 @@
       "year": 2016,
       "character": ["Ari Hauntington"],
       "series": "Dessert",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DXX93",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Dessert-Ari-Hauntington.jpg",
@@ -9900,7 +9900,7 @@
       "year": 2016,
       "character": ["Catrine DeMew"],
       "series": "Dessert",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DXX75",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Dessert-Catrine-DeMew.jpg",
@@ -9922,7 +9922,7 @@
       "year": 2016,
       "character": ["Cleo de Nile"],
       "series": "Dessert",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DXX76",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Dessert-Cleo-de-Nile-1.jpg",
@@ -9944,7 +9944,7 @@
       "year": 2016,
       "character": ["Ari Hauntington"],
       "series": "Electrified",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH68",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Electrified-Ari-Hauntington.jpg",
@@ -9966,7 +9966,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Electrified",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH67",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Electrified-Draculaura.jpg",
@@ -9990,7 +9990,7 @@
       "year": 2016,
       "character": ["Silvi Timberwolf"],
       "series": "Electrified",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH66",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Electrified-Silva-Timberwolf.jpg",
@@ -10012,7 +10012,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "Electrified",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH72",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Electrified-Frankie-Stein-3.jpg",
@@ -10036,7 +10036,7 @@
       "year": 2016,
       "character": ["Clawdeen Wolf"],
       "series": "Electrified",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH70",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Electrified-Clawdeen-Wolf.jpg",
@@ -10062,7 +10062,7 @@
       "year": 2016,
       "character": ["Twyla"],
       "series": "Electrified",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH71",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Electrified-Twyla.jpg",
@@ -10088,7 +10088,7 @@
       "year": 2016,
       "character": ["Clawdeen Wolf"],
       "series": "Emoji",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DWR98",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Emoji-Clawdeen-Wolf-2.jpg",
@@ -10110,7 +10110,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Emoji",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH18",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Emoji-Draculaura.jpg",
@@ -10130,7 +10130,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "Emoji",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH19",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Emoji-Frankie-Stein.jpg",
@@ -10152,7 +10152,7 @@
       "year": 2016,
       "character": ["Lagoona Blue"],
       "series": "Emoji",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Emoji-Lagoona-Blue.jpg",
         "https://mhcollector.com/wp-content/uploads/2016/11/Emoji-Lagoona-Blue-Box.jpg",
@@ -10173,7 +10173,7 @@
       "year": 2016,
       "character": ["Clawdeen Wolf", "Jinafire Long", "Venus McFlytrap"],
       "series": "Fierce Rockers",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DJB92",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Fierce-Rockers-3-pack-box-2.jpg",
@@ -10196,7 +10196,7 @@
       "year": 2016,
       "character": ["Catty Noir", "Toralei Stripe"],
       "series": "Fierce Rockers",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DJB91",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Fierce-Rockers-2-pack-s.jpg",
@@ -10223,7 +10223,7 @@
       "year": 2016,
       "character": ["Clawdeen Wolf"],
       "series": "Ghoul’s Beast Pet",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghouls-Beast-Pet-Clawesome-Pet-Salon-Box.jpg",
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghouls-Beast-Pet-Clawesome-Pet-Salon-3.jpg",
@@ -10248,7 +10248,7 @@
       "year": 2016,
       "character": ["Cleo de Nile"],
       "series": "Ghoul’s Beast Pet",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX39",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghouls-Beast-Pet-Cleo-De-Nile-1.jpg",
@@ -10272,7 +10272,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Ghoul’s Beast Pet",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPX05",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghouls-Beast-Pet-Draculaura.jpg",
@@ -10298,7 +10298,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "Ghoul’s Beast Pet",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPX04",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghouls-Beast-Pet-Frankie-Stein-1.jpg",
@@ -10324,7 +10324,7 @@
       "year": 2016,
       "character": ["Lagoona Blue"],
       "series": "Ghoul’s Beast Pet",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX40",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghouls-Beast-Pet-Lagoona-Blue-1.jpg",
@@ -10346,7 +10346,7 @@
       "year": 2016,
       "character": ["Clawdeen Wolf"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNW89",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/How-Do-You-Boo-Clawdeen-Wolf-1.jpg",
@@ -10368,7 +10368,7 @@
       "year": 2016,
       "character": ["Cleo de Nile"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/How-Do-You-Boo-Cleo-De-Nile-1.jpg",
         "https://mhcollector.com/wp-content/uploads/2016/08/How-Do-You-Boo-Cleo-De-Nile-2.jpg",
@@ -10389,7 +10389,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DMD47",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/How-Do-You-Boo-Draculaura-1.jpg",
@@ -10411,7 +10411,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DMD46",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/How-Do-You-Boo-Frankie-Stein-1.jpg",
@@ -10433,7 +10433,7 @@
       "year": 2016,
       "character": ["Ari Hauntington"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPL86",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/First-Day-of-School-Ari-Hauntington-1.jpg",
@@ -10459,7 +10459,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNW98",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/First-Day-of-School-Draculaura-1.jpg",
@@ -10485,7 +10485,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNW99",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/First-Day-of-School-Frankie-Stein-1.jpg",
@@ -10509,7 +10509,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNV67",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghoul-Spirit-Draculaura-1.jpg",
@@ -10535,7 +10535,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DWB56",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/How-Do-You-Boo-Draculaura-v2-2.jpg",
@@ -10557,7 +10557,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNV66",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghoul-Spirit-Frankie-Stein-2.jpg",
@@ -10583,7 +10583,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DWB57",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/How-Do-You-Boo-Frankie-Stein-v2-1.jpg",
@@ -10605,7 +10605,7 @@
       "year": 2016,
       "character": ["Djinni \"Whisp\" Grant"],
       "series": "I Love Fashion",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DMF96",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/I-Love-Fashion-Djinni-Whisp-Grant-1.jpg",
@@ -10632,7 +10632,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPX18",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Boltin-Bicycle-2.jpg",
@@ -10682,7 +10682,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCT30",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/Fashion-Doll-Case-Draculaura-5.jpg",
@@ -10709,7 +10709,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/Fashion-Doll-Case-Frankie-Stein-4.jpg",
         "https://mhcollector.com/wp-content/uploads/2017/02/Fashion-Doll-Case-Frankie-Stein-3.jpg",
@@ -10757,7 +10757,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghostbusters-Frankie-Stein-1.jpg",
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghostbusters-Frankie-Stein-Box-3.jpg",
@@ -10788,7 +10788,7 @@
       "year": 2016,
       "character": ["Clawdeen Wolf"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX05",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghoul-La-La-Locker-Clawdeen-Wolf-2.jpg",
@@ -10814,7 +10814,7 @@
       "year": 2016,
       "character": ["Clawdeen Wolf", "Cleo de Nile", "Draculaura", "Frankie Stein"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPW92",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Ice-Scream-Ghouls-Beast-Friends-2.jpg",
@@ -10838,7 +10838,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH36",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/11/Party-Hair-Draculaura.jpg",
@@ -10864,7 +10864,7 @@
       "year": 2016,
       "character": ["Robecca Steam", "Hexiciah Steam"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "DKB39",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Robecca-Steam-Hexiciah-Steam-1.jpg",
@@ -10897,7 +10897,7 @@
       "year": 2016,
       "character": ["Skelita Calaveras"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPH48",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Skelita-Calaveras-Collector-Doll-1.jpg",
@@ -10926,7 +10926,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX37",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Skulltimate-Science-Class-3.jpg",
@@ -10950,7 +10950,7 @@
       "year": 2016,
       "character": ["Lagoona Blue"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX06",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Surf-To-Turf-Scooter-Lagoona-Blue-2.jpg",
@@ -10976,7 +10976,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX36",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Voltageous-Hair-Frankie-Stein-1.jpg",
@@ -11000,7 +11000,7 @@
       "year": 2016,
       "character": ["Zomby Gaga"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCD09",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/10/Zomby-Gaga-1.jpg",
@@ -11030,7 +11030,7 @@
       "year": 2016,
       "character": ["Ari Hauntington"],
       "series": "Music Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH62",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/09/Music-Class-Ari-Hauntington-1.jpg",
@@ -11056,7 +11056,7 @@
       "year": 2016,
       "character": ["Cleo de Nile"],
       "series": "Music Class",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH63",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/09/Music-Class-Cleo-de-Nile-1.jpg",
@@ -11077,7 +11077,7 @@
       "year": 2016,
       "character": ["Amanita Nightshade", "Nefera de Nile"],
       "series": "Scream & Sugar",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DMD73",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Scream-Sugar-2-Pack-1.jpg",
@@ -11104,7 +11104,7 @@
       "year": 2016,
       "character": ["Cleo de Nile"],
       "series": "Scream & Sugar",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPX08",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Scream-Sugar-Cafe-3.jpg",
@@ -11127,7 +11127,7 @@
       "year": 2016,
       "character": ["Gooliope Jellington"],
       "series": "Shriek Wrecked",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FBP35",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Shriek-Wrecked-Gooliope-Jellington.jpg",
@@ -11150,7 +11150,7 @@
       "year": 2016,
       "character": ["Dayna Treasura Jones"],
       "series": "Shriek Wrecked",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DTV93",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Shriek-Wrecked-Dayna-Jones-1.jpg",
@@ -11175,7 +11175,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Shriek Wrecked",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DTV90",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Shriek-Wrecked-Draculaura-4.jpg",
@@ -11200,7 +11200,7 @@
       "year": 2016,
       "character": ["Lagoona Blue"],
       "series": "Shriek Wrecked",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DTV91",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Shriek-Wrecked-Lagoona-Blue-1.jpg",
@@ -11225,7 +11225,7 @@
       "year": 2016,
       "character": ["Rochelle Goyle"],
       "series": "Shriek Wrecked",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DTV89",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Shriek-Wrecked-Rochelle-Goyle-1.jpg",
@@ -11250,7 +11250,7 @@
       "year": 2016,
       "character": ["Catrine DeMew"],
       "series": "Shriek Wrecked",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DTV83",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Shriek-Wrecked-Catrine-DeMew-1.jpg",
@@ -11273,7 +11273,7 @@
       "year": 2016,
       "character": ["Clawdeen Wolf"],
       "series": "Shriek Wrecked",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DTV84",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Shriek-Wrecked-Clawdeen-Wolf-1.jpg",
@@ -11298,7 +11298,7 @@
       "year": 2016,
       "character": ["Gillington \"Gil\" Webber"],
       "series": "Shriek Wrecked",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "DTV85",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Shriek-Wrecked-Gil-Webber-1.jpg",
@@ -11321,7 +11321,7 @@
       "year": 2016,
       "character": ["Clawdeen Wolf"],
       "series": "Sleepover",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPC43",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Sleepover-Clawdeen-Wolf-1.jpg",
@@ -11340,7 +11340,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Sleepover",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPC41",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Sleepover-Draculaura-1.jpg",
@@ -11359,7 +11359,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "Sleepover",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPC42",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/05/Sleepover-Frankie-Stein-1.jpg",
@@ -11378,7 +11378,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Transforming Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX65",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Ghoul-to-Bat-Draculaura-1.jpg",
@@ -11445,7 +11445,7 @@
       "year": 2016,
       "character": ["Skelita Calaveras"],
       "series": "Voltageous – Beast Freaky Friend",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "55622",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/09/Voltageous-Beast-Freaky-Friend-Skelita-Calaveras.jpg",
@@ -11467,7 +11467,7 @@
       "year": 2016,
       "character": ["Ari Hauntington"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX66",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Singing-Popstar-Ari-Hauntington-1.jpg",
@@ -11490,7 +11490,7 @@
       "year": 2016,
       "character": ["Draculaura", "Moanica D'Kay"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNY33",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Monstrous-Rivals-2-Pack-2.jpg",
@@ -11515,7 +11515,7 @@
       "year": 2016,
       "character": ["Abbey Bominable"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPX10",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Dance-The-Fright-Away-Abbey-Bominable-1.jpg",
@@ -11534,7 +11534,7 @@
       "year": 2016,
       "character": ["Clawdeen Wolf"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX19",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Dance-The-Fright-Away-Clawdeen-Wolf-1.jpg",
@@ -11555,7 +11555,7 @@
       "year": 2016,
       "character": ["Cleo de Nile"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX20",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Dance-The-Fright-Away-Cleo-de-Nile-1.jpg",
@@ -11576,7 +11576,7 @@
       "year": 2016,
       "character": ["Deuce Gorgon"],
       "series": "Welcome to Monster High",
-      "gender": "Manster",
+      "gender": ["Manster"],
       "modelNumber": "DPX11",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Dance-The-Fright-Away-Deuce-Gorgon-1.jpg",
@@ -11597,7 +11597,7 @@
       "year": 2016,
       "character": ["Lagoona Blue"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Dance-The-Fright-Away-Lagoona-Blue-1.jpg",
         "https://mhcollector.com/wp-content/uploads/2016/08/Dance-The-Fright-Away-Lagoona-Blue-2.jpg",
@@ -11619,7 +11619,7 @@
       "year": 2016,
       "character": ["Moanica D'Kay"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPX12",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Dance-The-Fright-Away-Moanica-DKay-1.jpg",
@@ -11640,7 +11640,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX68",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Dance-The-Fright-Away-Playset-4.jpg",
@@ -11665,7 +11665,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX33",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Photo-Booth-Ghouls-Draculaura-1.jpg",
@@ -11692,7 +11692,7 @@
       "year": 2016,
       "character": ["Frankie Stein"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX34",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Photo-Booth-Ghouls-Frankie-Stein-1.jpg",
@@ -11717,7 +11717,7 @@
       "year": 2016,
       "character": ["Ari Hauntington"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DNX67",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Popstar-Ari-Hauntington-1.jpg",
@@ -11740,7 +11740,7 @@
       "year": 2016,
       "character": ["Draculaura"],
       "series": "Welcome to Monster High",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DPX15",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/08/Popstar-Fang-Ghouls-Draculaura-1.jpg",
@@ -11761,7 +11761,7 @@
       "year": 2017,
       "character": ["Cleo de Nile"],
       "series": "Electrified",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DXX96",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/Electrified-Cleo-de-Nile-1.jpg",
@@ -11784,7 +11784,7 @@
       "year": 2017,
       "character": ["Venus McFlytrap"],
       "series": "Electrified",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DXX97",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/Electrified-Venus-McFlytrap-1.jpg",
@@ -11809,7 +11809,7 @@
       "year": 2017,
       "character": ["Treesa Thornwillow"],
       "series": "Garden Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV59",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/06/Garden-Ghouls-Treesa-Thornwillow-1s.jpg",
@@ -11836,7 +11836,7 @@
       "year": 2017,
       "character": ["Beetrice"],
       "series": "Garden Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV49",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/10/Garden-Ghouls-Beetrice-3.jpg",
@@ -11861,7 +11861,7 @@
       "year": 2017,
       "character": ["Lumina"],
       "series": "Garden Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV50",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/10/Garden-Ghouls-Lumina-2.jpg",
@@ -11884,7 +11884,7 @@
       "year": 2017,
       "character": ["Wingrid"],
       "series": "Garden Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV48",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/10/Garden-Ghouls-Wingred-1.jpg",
@@ -11907,7 +11907,7 @@
       "year": 2017,
       "character": ["Cleo de Nile"],
       "series": "Garden Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV54",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/07/Garden-Ghouls-Cleo-de-Nile-1s.jpg",
@@ -11930,7 +11930,7 @@
       "year": 2017,
       "character": ["Toralei Stripe"],
       "series": "Garden Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV55",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/07/Garden-Ghouls-Toralei-Stripe-1.jpg",
@@ -11951,7 +11951,7 @@
       "year": 2017,
       "character": ["Twyla"],
       "series": "Garden Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV53",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/07/Garden-Ghouls-Twyla-1.jpg",
@@ -11972,7 +11972,7 @@
       "year": 2017,
       "character": ["Clawdeen Wolf"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH23",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/First-Day-of-School-Clawdeen-Wolf-3.jpg",
@@ -11995,7 +11995,7 @@
       "year": 2017,
       "character": ["Cleo de Nile"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH24",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/First-Day-of-School-Cleo-de-Nile-2.jpg",
@@ -12020,7 +12020,7 @@
       "year": 2017,
       "character": ["Lagoona Blue"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DVH25",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/First-Day-of-School-Lagoona-Blue-1.jpg",
@@ -12041,7 +12041,7 @@
       "year": 2017,
       "character": ["Clawdeen Wolf"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCJ90",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/Ghoul-Spirit-Clawdeen-Wolf-1.jpg",
@@ -12062,7 +12062,7 @@
       "year": 2017,
       "character": ["Cleo de Nile"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DYC33",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/Ghoul-Spirit-Cleo-de-Nile-1.jpg",
@@ -12083,7 +12083,7 @@
       "year": 2017,
       "character": ["Lagoona Blue"],
       "series": "How Do You Boo?",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DYC32",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/Ghoul-Spirit-Lagoona-Blue-1.jpg",
@@ -12104,7 +12104,7 @@
       "year": 2017,
       "character": ["Draculaura"],
       "series": "Lots of Looks",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FHB21",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/10/Lots-of-Looks-Draculaura-2.jpg",
@@ -12153,7 +12153,7 @@
       "year": 2017,
       "character": ["Frankie Stein"],
       "series": "Lots of Looks",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DYC28",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/12/Lots-of-Looks-Frankie-Stein.jpg",
@@ -12196,7 +12196,7 @@
       "year": 2017,
       "character": ["Abbey Bominable"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FGD27",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/07/Abbey-Bominable-Collector-Doll-1.jpg",
@@ -12215,7 +12215,7 @@
       "year": 2017,
       "character": ["Venus McFlytrap"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DXY08",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/02/Casketball-Champ-Venus-Mcflytrap-2.jpg",
@@ -12241,7 +12241,7 @@
       "year": 2017,
       "character": ["Cleo de Nile"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCL36",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/07/Cleo-De-Nile-Ghoulia-Yelps-2-pack-1.jpg",
@@ -12302,7 +12302,7 @@
       "year": 2017,
       "character": ["Frankie Stein"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DXY09",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/01/Skulltimate-Locker-Room-3.jpg",
@@ -12324,7 +12324,7 @@
       "year": 2017,
       "character": ["Draculaura", "Frankie Stein"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FHB22",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/02/Voltageous-Science-Class-2-Pack-1.jpg",
@@ -12347,7 +12347,7 @@
       "year": 2017,
       "character": ["Clawdeen Wolf"],
       "series": "Miscellaneous",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "DXY10",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/01/Monster-High-Winning-Werewolves-3.jpg",
@@ -12369,7 +12369,7 @@
       "year": 2017,
       "character": ["Clawdeen Wolf", "Weredith Wolf", "Barker Wolf"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "FCV81",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/08/Monster-Family-Clawdeen-Wolf-3-Pack-2.jpg",
@@ -12396,7 +12396,7 @@
       "year": 2017,
       "character": ["Cleo de Nile", "Lux de Nile", "Sandy de Nile"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "FCV76",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/10/Monster-Family-de-Nile-3-pack-2.jpg",
@@ -12428,7 +12428,7 @@
       "year": 2017,
       "character": ["Ebbie Blue"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV67",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/07/Monster-Family-Ebbie-Blue-1.jpg",
@@ -12453,7 +12453,7 @@
       "year": 2017,
       "character": ["Fangelica"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV68",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/07/Monster-Family-Fangelica-1.jpg",
@@ -12476,7 +12476,7 @@
       "year": 2017,
       "character": ["Lagoona Blue", "Kelpie Blue"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV82",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/08/Monster-Family-Lagoona-Kelpie-Blue-1.jpg",
@@ -12505,7 +12505,7 @@
       "year": 2017,
       "character": ["Pawla Wolf"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV66",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/07/Monster-Family-Pawla-Wolf-1.jpg",
@@ -12532,7 +12532,7 @@
       "year": 2017,
       "character": ["Pharrah de Nile"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV72",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/10/Monster-Family-Pharrah-de-Nile-2.jpg",
@@ -12560,7 +12560,7 @@
       "year": 2017,
       "character": ["Sandy de Nile"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV73",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/10/Monster-Family-Sandy-de-Nile-1.jpg",
@@ -12584,7 +12584,7 @@
       "year": 2017,
       "character": ["Draculaura", "Dracula"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FCV75",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/08/Vampire-Kitchen-box.jpg",
@@ -12613,7 +12613,7 @@
       "year": 2017,
       "character": ["Abbey Bominable"],
       "series": "Party Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FDF12",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/12/Party-Ghouls-Abbey-Bominable.jpg",
@@ -12639,7 +12639,7 @@
       "year": 2017,
       "character": ["Rochelle Goyle"],
       "series": "Party Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FDF13",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/12/Party-Ghouls-Rochelle-Goyle.jpg",
@@ -12661,7 +12661,7 @@
       "year": 2017,
       "character":["Venus McFlytrap"],
       "series": "Party Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FDF14",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2016/12/Party-Ghouls-Venus-McFlytrap.jpg"
@@ -12679,7 +12679,7 @@
       "year": 2017,
       "character": ["Draculaura", "Twyla"],
       "series": "School Spirit",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FGD25",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/10/School-Spirit-Draculaura-Twyla-2-Pack-2.jpg",
@@ -12703,7 +12703,7 @@
       "year": 2017,
       "character": ["Frankie Stein"],
       "series": "School Spirit",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FGD26",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/10/School-Spirit-Frankie-Stein-Lunch-Set-2.jpg",
@@ -12725,7 +12725,7 @@
       "year": 2018,
       "character": ["Cleo de Nile"],
       "series": "Ballerina Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FKP62",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/01/Ballerina-Ghouls-Cleo-de-Nile-3.jpg",
@@ -12748,7 +12748,7 @@
       "year": 2018,
       "character": ["Draculaura"],
       "series": "Ballerina Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FKP61",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/01/Ballerina-Ghouls-Draculaura-1.jpg",
@@ -12771,7 +12771,7 @@
       "year": 2018,
       "character": ["Moanica D'Kay"],
       "series": "Ballerina Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FKP63",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/01/Ballerina-Ghouls-Moanica-DKay-1.jpg",
@@ -12794,7 +12794,7 @@
       "year": 2018,
       "character": ["Cleo de Nile"],
       "series": "Comic Book",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FJJ18",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/02/Comic-Book-Cleo-de-Nile-1.jpg",
@@ -12814,7 +12814,7 @@
       "year": 2018,
       "character": ["Draculaura"],
       "series": "Comic Book",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FJJ16",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/02/Comic-Book-Draculaura-1.jpg",
@@ -12834,7 +12834,7 @@
       "year": 2018,
       "character": ["Frankie Stein"],
       "series": "Comic Book",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FJJ15",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/02/Comic-Book-Frankie-Stein-1.jpg",
@@ -12854,7 +12854,7 @@
       "year": 2018,
       "character": ["Lagoona Blue"],
       "series": "Comic Book",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/02/Comic-Book-Lagoona-Blue-1.jpg",
         "https://mhcollector.com/wp-content/uploads/2018/02/Comic-Book-Lagoona-Blue-2.jpg"
@@ -12873,7 +12873,7 @@
       "year": 2018,
       "character":[ "Ari Hauntington"],
       "series": "Ghostly Tea Party",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FRG42",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/03/Ghostly-Tea-Party-Ari-Hauntington-2.jpg",
@@ -12892,7 +12892,7 @@
       "year": 2018,
       "character": ["Clawdeen Wolf"],
       "series": "Ghostly Tea Party",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FRG40",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/03/Ghostly-Tea-Party-Clawdeen-Wolf-2.jpg",
@@ -12913,7 +12913,7 @@
       "year": 2018,
       "character": ["Lagoona Blue"],
       "series": "Ghostly Tea Party",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FRG41",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/03/Ghostly-Tea-Party-Lagoona-Blue-2.jpg",
@@ -12934,7 +12934,7 @@
       "year": 2018,
       "character": ["Draculaura"],
       "series": "Howling Hoodies",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FRG06",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/03/Howling-Hoodies-Draculaura-1.jpg",
@@ -12955,7 +12955,7 @@
       "year": 2018,
       "character": ["Twyla"],
       "series": "Howling Hoodies",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FRG08",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/03/Howling-Hoodies-Twyla-1.jpg",
@@ -12976,7 +12976,7 @@
       "year": 2018,
       "character": ["Venus McFlytrap"],
       "series": "Howling Hoodies",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FRG07",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/03/Howling-Hoodies-Venus-McFlytrap-1.jpg",
@@ -12997,7 +12997,7 @@
       "year": 2018,
       "character": ["Alivia Stein"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FND58",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/02/Monster-Family-Alivia-Stein-2.jpg",
@@ -13020,7 +13020,7 @@
       "year": 2018,
       "character": ["Packlyn Wolf"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FND56",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/01/Monster-Family-Wolf-Bunk-Bed-box-2.jpg",
@@ -13049,7 +13049,7 @@
       "year": 2018,
       "character": ["Draculaura", "Fangelica"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FTB87",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/05/Monster-Family-Draculaura-Fangelica-3.jpg",
@@ -13076,7 +13076,7 @@
       "year": 2018,
       "character": ["Frankie Stein", "Alivia Stein"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FKP50",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/05/Monster-Family-Frankie-Stein-Alivia-Stein-2.jpg",
@@ -13097,7 +13097,7 @@
       "year": 2018,
       "character": ["Howleen Wolf"],
       "series": "Monster Family",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FND59",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/02/Monster-Family-Howleen-Wolf-2.jpg",
@@ -13120,7 +13120,7 @@
       "year": 2018,
       "character": ["Ari Hauntington"],
       "series": "Swimsuit",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FRG02",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/05/Swimsuit-Ari-Hauntington.jpg"
@@ -13137,7 +13137,7 @@
       "year": 2018,
       "character": ["Clawdeen Wolf"],
       "series": "Swimsuit",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FJJ04",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/05/Swimsuit-Clawdeen-Wolf.jpg"
@@ -13154,7 +13154,7 @@
       "year": 2018,
       "character": ["Draculaura"],
       "series": "Swimsuit",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FJJ02",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/05/Swimsuit-Draculaura-1.jpg"
@@ -13171,7 +13171,7 @@
       "year": 2018,
       "character": ["Frankie Stein"],
       "series": "Swimsuit",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FJJ03",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/05/Swimsuit-Frankie-Stein.jpg"
@@ -13188,7 +13188,7 @@
       "year": 2018,
       "character": ["Lagoona Blue"],
       "series": "Swimsuit",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/05/Swimsuit-Lagoona-Blue.jpg"
       ],
@@ -13204,7 +13204,7 @@
       "year": 2018,
       "character": ["Draculaura"],
       "series": "Transforming Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FNC17",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/01/Ghoul-To-Bat-Draculaura-2-4.jpg",
@@ -13231,7 +13231,7 @@
       "year": 2018,
       "character": ["Lagoona Blue"],
       "series": "Transforming Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FKP48",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/05/Ghoul-to-Mermaid-Lagoona-Blue-1.jpg",
@@ -13260,7 +13260,7 @@
       "year": 2018,
       "character": ["Clawdeen Wolf"],
       "series": "Transforming Ghouls",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "FKP47",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2018/01/Ghoul-To-Wolf-Clawdeen-Wolf-1.jpg",
@@ -13285,7 +13285,7 @@
       "year": 2020,
       "character": ["Pennywise"],
       "series": "Skullector",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "GNP22",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2020/12/IT-Pennywise-4.jpg",
@@ -13324,7 +13324,7 @@
       "year": 2020,
       "character": ["Grady Twins"],
       "series": "Skullector",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "GNP21",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2020/12/The-Shining-Grady-Twins-1s.jpg",
@@ -13359,7 +13359,7 @@
       "year": 2021,
       "character": ["Beetlejuice"],
       "series": "Skullector",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "GWF82",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2021/10/Beetlejuice-Lydia-Deetz-Skullector-2-Pack-1s.jpg",
@@ -13402,7 +13402,7 @@
       "year": 2022,
       "character": ["Clawdeen Wolf"],
       "series": "Boo-riginal Creeproduction",
-      "gender": "Ghoul",
+      "gender": ["Ghoul"],
       "modelNumber": "HGC30",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2022/05/Boo-riginal-Clawdeen-Wolf-1.jpg",

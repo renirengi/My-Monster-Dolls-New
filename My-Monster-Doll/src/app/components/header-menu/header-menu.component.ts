@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Router } from '@angular/router';
+import { Observable, lastValueFrom } from 'rxjs';
 import { DollService } from 'src/app/services/doll.service';
 
 @Component({
@@ -19,6 +20,7 @@ export class HeaderMenuComponent implements OnInit {
 
   constructor(
     private dollService: DollService,
+    private router: Router
   ) {
     this.types$ = this.dollService.getAvailable('type');
     this.characters$ = this.dollService.getAvailable('character');
@@ -29,6 +31,12 @@ export class HeaderMenuComponent implements OnInit {
    }
 
   ngOnInit(): void {
+  }
+
+  public async onRoute(menuItem: string, par:string) {
+    const dolls = await lastValueFrom(this.dollService.getDollsByParamsFromMenu(menuItem, par));
+    console.log(dolls)
+    this.router.navigate(['/catalog'], { queryParams: { [menuItem]: par }});
   }
 
 }

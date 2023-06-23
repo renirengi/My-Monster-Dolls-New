@@ -2,7 +2,7 @@ export interface IDoll {
   character?: string[];
   description: string;
   galleryImagesLinks: string[];
-  gender?: string;
+  gender?: string[];
   id: number;
   modelNumber: string;
   series?: string;

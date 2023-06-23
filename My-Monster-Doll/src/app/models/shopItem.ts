@@ -3,7 +3,7 @@ export interface IShopItem {
   name: string[];
   description: string;
   photos: string[];//возможно тут будет другой интерфейс. ему не нужна таблица
-  gender?: string;
+  gender?: string[];
   modelNumber?: string[];
   series?: string[];
   type: TType;

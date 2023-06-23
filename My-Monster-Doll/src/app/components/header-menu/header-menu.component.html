@@ -13,36 +13,36 @@
 
 <mat-menu #type="matMenu">
   <div class="categories-menu" *ngFor = "let type of types$ | async">
-    <button mat-menu-item>{{type}}</button>
+    <button mat-menu-item (click)="onRoute('type', type)">{{type}}</button>
   </div>
 </mat-menu>
 
 <mat-menu #character="matMenu">
   <div class="categories-menu" *ngFor = "let character of characters$ | async">
-    <button mat-menu-item>{{character}}</button>
+    <button mat-menu-item (click)="onRoute('character', character)">{{character}}</button>
   </div>
 </mat-menu>
 
 <mat-menu #years="matMenu">
   <div class="categories-menu" *ngFor = "let year of years$ | async">
-    <button mat-menu-item>{{year}}</button>
+    <button mat-menu-item (click)="onRoute('year', year)">{{year}}</button>
   </div>
 </mat-menu>
 
 <mat-menu #gender="matMenu">
   <div class="categories-menu" *ngFor = "let gender of genders$ | async">
-    <button mat-menu-item>{{gender}}</button>
+    <button mat-menu-item (click)="onRoute('gender', gender)">{{gender}}</button>
   </div>
 </mat-menu>
 <mat-menu #series="matMenu">
   <div class="categories-menu" *ngFor = "let s of series$ | async">
-    <button mat-menu-item>{{s}}</button>
+    <button mat-menu-item (click)="onRoute('series', s)">{{s}}</button>
   </div>
 </mat-menu>
 
 <mat-menu #exclusive="matMenu">
   <div class="categories-menu" *ngFor = "let exclusive of exclusives$ | async">
-    <button mat-menu-item>{{exclusive}}</button>
+    <button mat-menu-item (click)="onRoute('exclusive', exclusive)">{{exclusive}}</button>
   </div>
 </mat-menu>
 

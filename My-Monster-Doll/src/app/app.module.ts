@@ -24,14 +24,20 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './components/header/header.component';
 import { HeaderMenuComponent } from './components/header-menu/header-menu.component';
 
+import { CatalogComponent } from './components/pages/catalog/catalog.component';
+
 import { DollService } from './services/doll.service';
+import { MainComponent } from './components/pages/main/main.component';
+
 
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    HeaderMenuComponent
+    HeaderMenuComponent,
+    CatalogComponent,
+    MainComponent
   ],
   imports: [
     BrowserModule,
