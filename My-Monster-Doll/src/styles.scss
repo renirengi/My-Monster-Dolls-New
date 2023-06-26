@@ -40,6 +40,10 @@ $My-Monster-Doll-theme: mat.define-light-theme((
 --accent: #A1887F;
 --purple-blue: #311B92;
 --Imbue: 'Imbue', serif;
+--Cinzel: 'Cinzel', serif;///заголовок
+--Bona: 'Bona Nova', serif;///база
+--Caveat: 'Caveat', cursive;
+--Forum: 'Forum', cursive;
 }
 
 html, body { height: 100%; box-sizing: border-box;}
@@ -56,15 +60,21 @@ header {
   display: flex;
   flex: content;
   justify-content: space-between;
-  padding:0 5%;
+  padding:0 2%;
   align-items: center;
 }
 
 .page {
-  width: 80%;
+  width: 96%;
   margin: 2vh auto;
-  padding: 2vh;
+  padding: 1vh 0;
+  background-color: white;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+
 }
+
+
 
 }
 .mat-menu-panel {width: 50vw; height: 80vh; left:0}

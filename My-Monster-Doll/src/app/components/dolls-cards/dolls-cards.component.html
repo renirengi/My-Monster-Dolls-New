@@ -1,0 +1,20 @@
+<ng-container *ngIf="doll" >
+  <div class="doll-container">
+    <div class="box-image">
+      <img
+      [src]="doll.galleryImagesLinks[0]"
+      [alt]="doll.modelNumber"
+      routerLink="/catalog/{{doll.id}}"
+      />
+    </div>
+    <div class="title-container" >
+      <div class="doll-character-title" *ngFor="let item  of doll.character">
+      <p>{{item | uppercase}}</p>
+      </div>
+    </div>
+    <p class="doll-series">{{doll.series}}</p>
+    <p class="doll-series"> - {{doll.year}} - </p>
+  </div>
+
+
+</ng-container>

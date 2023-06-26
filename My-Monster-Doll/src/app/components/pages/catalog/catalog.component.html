@@ -1,3 +1,4 @@
-<div class="page">
+<div class="page" *ngIf="dolls$ |async as dolls">
 
+  <app-dolls-list [dolls] ="dolls"></app-dolls-list>
 </div>

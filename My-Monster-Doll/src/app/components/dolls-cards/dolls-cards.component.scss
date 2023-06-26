@@ -1,0 +1,60 @@
+.doll-container {
+  height: 45vh;
+  width: 220px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1vh 0;
+  margin: 1vh 1%;
+
+  .box-image {
+    display: inline-block;
+    max-width: 200px;
+    height: 20vh;
+    overflow: hidden;
+    margin: auto;
+
+    img {
+    display:block;
+    height: 20vh;
+    max-width: 200px;
+    object-fit:contain;
+    border: none;
+    margin: 0 auto;
+    padding: 0;
+  }
+}
+
+  .title-container {
+    text-align: center;
+    align-self: center;
+
+
+  .doll-character-title{
+    font-weight: bold;
+    letter-spacing: 1%;
+    word-wrap: break-word;
+    line-height: 1;
+    background: -webkit-linear-gradient( var(--purple-blue), black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: var(--Imbue);
+    font-size: 1.8rem;
+
+  }
+}
+
+
+  .doll-series {
+    display: inline-block;
+    margin: 1vh 0;
+    align-self: center;
+    font-family: var(--Bona);
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+
+
+
+}
+

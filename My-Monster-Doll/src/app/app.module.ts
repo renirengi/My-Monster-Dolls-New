@@ -28,6 +28,8 @@ import { CatalogComponent } from './components/pages/catalog/catalog.component';
 
 import { DollService } from './services/doll.service';
 import { MainComponent } from './components/pages/main/main.component';
+import { DollsListComponent } from './components/dolls-list/dolls-list.component';
+import { DollsCardsComponent } from './components/dolls-cards/dolls-cards.component';
 
 
 
@@ -37,7 +39,9 @@ import { MainComponent } from './components/pages/main/main.component';
     HeaderComponent,
     HeaderMenuComponent,
     CatalogComponent,
-    MainComponent
+    MainComponent,
+    DollsListComponent,
+    DollsCardsComponent
   ],
   imports: [
     BrowserModule,
