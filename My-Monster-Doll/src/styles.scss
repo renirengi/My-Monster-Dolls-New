@@ -47,7 +47,7 @@ $My-Monster-Doll-theme: mat.define-light-theme((
 }
 
 html, body { height: 100%; box-sizing: border-box;}
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+body { margin: 0; font-family: var(--Bona) }
 
 body {
   background-image: url('./assets/9.jpg') !important;
@@ -77,4 +77,5 @@ header {
 
 
 }
-.mat-menu-panel {width: 50vw; height: 80vh; left:0}
+.mat-menu-panel {width: 50vw; height: auto; left:0; font-family: var(--Forum); font-size: 10em;}
+

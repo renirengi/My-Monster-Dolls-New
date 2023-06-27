@@ -1,0 +1,16 @@
+<section class="cards-container">
+  <app-dolls-list [dolls] ="dolls"></app-dolls-list>
+  <button
+mat-raised-button
+color = "accent"
+class = "add-button button"
+(click)="getNextDolls()"
+>
+<mat-icon>
+<span class="material-symbols-outlined">
+  add
+  </span>
+</mat-icon>
+Add more dolls
+</button>
+</section>

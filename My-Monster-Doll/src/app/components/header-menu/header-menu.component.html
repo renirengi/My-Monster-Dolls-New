@@ -1,25 +1,46 @@
-<button mat-icon-button [matMenuTriggerFor]="menu">
+<button mat-icon-button [matMenuTriggerFor]="menu" class="menu">
   <mat-icon>menu</mat-icon>
 </button>
 
-<mat-menu #menu="matMenu">
-  <button mat-menu-item [matMenuTriggerFor]="type">Type</button>
-  <button mat-menu-item [matMenuTriggerFor]="character">Character</button>
-  <button mat-menu-item [matMenuTriggerFor]="years">Years</button>
-  <button mat-menu-item [matMenuTriggerFor]="gender">Gender</button>
-  <button mat-menu-item [matMenuTriggerFor]="series">Series</button>
-  <button mat-menu-item [matMenuTriggerFor]="exclusive">Exclusive</button>
+<mat-menu #menu="matMenu" class="customize">
+  <button mat-menu-item [matMenuTriggerFor]="type">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdQ_Ph1yAKF3P7gdIapqdG9IKC_4DQ0zjwg&usqp=CAU">
+    Type</button>
+  <button mat-menu-item [matMenuTriggerFor]="character">
+    <img src="https://static.wikia.nocookie.net/monsterhigh/images/4/40/Honey_Skullette.png">
+    Character</button>
+  <button mat-menu-item [matMenuTriggerFor]="years">
+    <img src="https://static.wikia.nocookie.net/monsterhigh/images/d/d5/Assortment_logo_-_Go_Monster_High_Team%21%21%21.png">
+    Years</button>
+  <button mat-menu-item [matMenuTriggerFor]="gender">
+    <img src="https://i.pinimg.com/originals/9f/21/34/9f2134444062463c84adf000c1f162a3.png">
+    Gender</button>
+  <button mat-menu-item [matMenuTriggerFor]="series">
+    <img src="https://static.wikia.nocookie.net/monsterhigh/images/6/63/Assortment_logo_-_Dance_Class.jpg">
+    Series</button>
+  <button mat-menu-item [matMenuTriggerFor]="exclusive">
+    <img src="https://static.wikia.nocookie.net/monsterhigh/images/7/7e/Logo_-_SDCCI.jpg">
+    Exclusive</button>
 </mat-menu>
 
 <mat-menu #type="matMenu">
   <div class="categories-menu" *ngFor = "let type of types$ | async">
-    <button mat-menu-item (click)="onRoute('type', type)">{{type}}</button>
+    <button mat-menu-item (click)="onRoute('type', type)">
+      {{type}}</button>
   </div>
 </mat-menu>
 
 <mat-menu #character="matMenu">
   <div class="categories-menu" *ngFor = "let character of characters$ | async">
-    <button mat-menu-item (click)="onRoute('character', character)">{{character}}</button>
+    <button mat-menu-item (click)="onRoute('character', character)">
+      <div *ngIf="icon[character]; else char">
+        <img [src]="icon[character]">
+      </div>
+
+      <ng-template #char>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdQ_Ph1yAKF3P7gdIapqdG9IKC_4DQ0zjwg&usqp=CAU">
+      </ng-template>
+      {{character}}</button>
   </div>
 </mat-menu>
 

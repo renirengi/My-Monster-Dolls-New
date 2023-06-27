@@ -30,6 +30,7 @@ import { DollService } from './services/doll.service';
 import { MainComponent } from './components/pages/main/main.component';
 import { DollsListComponent } from './components/dolls-list/dolls-list.component';
 import { DollsCardsComponent } from './components/dolls-cards/dolls-cards.component';
+import { MainCatalogComponent } from './components/main-catalog/main-catalog.component';
 
 
 
@@ -41,7 +42,8 @@ import { DollsCardsComponent } from './components/dolls-cards/dolls-cards.compon
     CatalogComponent,
     MainComponent,
     DollsListComponent,
-    DollsCardsComponent
+    DollsCardsComponent,
+    MainCatalogComponent
   ],
   imports: [
     BrowserModule,

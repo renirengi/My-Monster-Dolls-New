@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { Observable, lastValueFrom } from 'rxjs';
 import { DollService } from 'src/app/services/doll.service';
+import { icons } from 'src/assets/menu';
+
 
 @Component({
   selector: 'app-header-menu',
@@ -9,7 +11,7 @@ import { DollService } from 'src/app/services/doll.service';
   styleUrls: ['./header-menu.component.scss']
 })
 export class HeaderMenuComponent implements OnInit {
-  [x: string]: any;
+  public icon:any= icons;
 
   public types$: Observable<string[]>;
   public characters$: Observable<string[]>;
@@ -31,6 +33,7 @@ export class HeaderMenuComponent implements OnInit {
    }
 
   ngOnInit(): void {
+    console.log(icons['Amanita Nightshade'])
   }
 
   public async onRoute(menuItem: string, par:string) {
@@ -39,4 +42,7 @@ export class HeaderMenuComponent implements OnInit {
     this.router.navigate(['/catalog'], { queryParams: { [menuItem]: par }});
   }
 
+
+
 }
+

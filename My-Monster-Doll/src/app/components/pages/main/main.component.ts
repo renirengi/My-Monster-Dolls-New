@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { lastValueFrom } from 'rxjs';
+import { Observable, lastValueFrom } from 'rxjs';
 import { IDoll } from 'src/app/models/doll';
 import { DollService } from 'src/app/services/doll.service';
 
@@ -10,26 +10,14 @@ import { DollService } from 'src/app/services/doll.service';
 })
 export class MainComponent implements OnInit {
 
-  public dolls!: IDoll[];
+  public dolls$: Observable<IDoll[]>;
 
   constructor(
     public dollService: DollService
-  ) { }
+  ) {
+    this.dolls$ = this.dollService.getAllDolls();
+  }
 
   ngOnInit(): void {
   }
-
-  public async generateRandomDolls() {
-     this.dolls = await lastValueFrom(this.dollService.getAllDolls());
-     this.shuffleDolls(this.dolls);
-     console.log(this.dolls)
-  }
-
-  public shuffleDolls(array:IDoll[]) {
-    for (let i = array.length - 1; i > 0; i--) {
-      let j = Math.floor(Math.random() * (i + 1));
-      [array[i], array[j]] = [array[j], array[i]];
-    }
-  }
-
 }
