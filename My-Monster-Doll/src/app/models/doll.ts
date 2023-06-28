@@ -6,7 +6,7 @@ export interface IDoll {
   id: number;
   modelNumber: string;
   series?: string;
-  type?: string;
+  type: string;
   year: number;
   exclusive?: string;
   reissue?: boolean;

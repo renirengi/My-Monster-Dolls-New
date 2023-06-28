@@ -6973,7 +6973,7 @@
     },
     {
       "year": 2014,
-      "character": ["Porter \"Paintergeist\" Geiss"],
+      "character": ["Porter Paintergeist Geiss"],
       "series": "Haunted",
       "gender": ["Manster"],
       "modelNumber": "CGV19",
@@ -7237,7 +7237,7 @@
     },
     {
       "year": 2014,
-      "character": ["Deuce Gorgon", "Gil  Webber"],
+      "character": ["Deuce Gorgon", "Gillington Gil Webber"],
       "series": "Miscellaneous",
       "gender": ["Manster"],
       "modelNumber": "CBX42",
@@ -9216,7 +9216,8 @@
       "id": 390,
       "exclusive": "Walmart",
       "reissue": false,
-      "video": "https://www.youtube.com/embed/xK-cO3OZO08"
+      "video": "https://www.youtube.com/embed/xK-cO3OZO08",
+      "type": "Doll"
     },
     {
       "year": 2015,
@@ -9803,7 +9804,8 @@
       "id": 413,
       "exclusive": "Walmart",
       "reissue": false,
-      "video": "https://www.youtube.com/embed/InNlHYSObs0"
+      "video": "https://www.youtube.com/embed/InNlHYSObs0",
+      "type": "Doll"
     },
     {
       "year": 2015,
@@ -10788,7 +10790,8 @@
       "id": 454,
       "exclusive": "Comic Con",
       "reissue": false,
-      "video": "https://www.youtube.com/embed/0CQ013TZ7dM"
+      "video": "https://www.youtube.com/embed/0CQ013TZ7dM",
+      "type": "Doll"
     },
     {
       "year": 2016,

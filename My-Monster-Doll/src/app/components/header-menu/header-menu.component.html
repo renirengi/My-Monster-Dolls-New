@@ -26,6 +26,7 @@
 <mat-menu #type="matMenu">
   <div class="categories-menu" *ngFor = "let type of types$ | async">
     <button mat-menu-item (click)="onRoute('type', type)">
+      <img [src]="dollType[type]">
       {{type}}</button>
   </div>
 </mat-menu>
@@ -33,9 +34,9 @@
 <mat-menu #character="matMenu">
   <div class="categories-menu" *ngFor = "let character of characters$ | async">
     <button mat-menu-item (click)="onRoute('character', character)">
-      <div *ngIf="icon[character]; else char">
+      <ng-container *ngIf="icon[character]; else char">
         <img [src]="icon[character]">
-      </div>
+      </ng-container>
 
       <ng-template #char>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdQ_Ph1yAKF3P7gdIapqdG9IKC_4DQ0zjwg&usqp=CAU">

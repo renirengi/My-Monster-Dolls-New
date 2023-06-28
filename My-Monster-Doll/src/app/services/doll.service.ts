@@ -30,7 +30,10 @@ export class DollService {
           if (value === 'year') {
             dolls.forEach((doll) => years.add(doll.year));
           } else if (value === 'type') {
-            dolls.forEach((doll) => years.add(doll.type));
+            dolls.forEach((doll) =>{
+              if (doll.type) {years.add(doll.type)}
+              else { console.log(doll.id)}
+            });
           } else if (value === 'series') {
             dolls.forEach((doll) => years.add(doll.series));
           } else if (value === 'exclusive') {
@@ -54,7 +57,7 @@ export class DollService {
 
     public getFilteredDolls(queryParams: Params): Observable<IDoll[]> {
       const page = queryParams['page'] | 1;
-      console.log (1)
+
       return this.getDollsByParams(this.getFilterParams(queryParams), page);
     }
 
@@ -64,8 +67,10 @@ export class DollService {
       const stringFIlters = ['searchString'];
 
       const listConverter = (key: string, values: string|string[]) => {
+
         const keyString = `${key}_like`;
         const valueString = Array.isArray(values) ? values.reduce((acc, val, i) => (i === 0 ? `(${val})` : `${acc}|(${val})`), '') : values;
+
 
         return valueString !== '()' ? { [keyString]: valueString } : {};
       };
