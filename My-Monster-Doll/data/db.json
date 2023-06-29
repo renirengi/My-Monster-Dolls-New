@@ -1825,7 +1825,8 @@
       "type": "Create-A-Monster",
       "id": 56,
       "reissue": false,
-      "promo": "https://www.youtube.com/embed/GFXQotn2r08"
+      "promo": "https://www.youtube.com/embed/GFXQotn2r08",
+      "series": "Create-A-Monster"
     },
     {
       "year": 2011,
@@ -1842,7 +1843,8 @@
       "type": "Create-A-Monster",
       "id": 57,
       "reissue": false,
-      "promo": "https://www.youtube.com/embed/GFXQotn2r08"
+      "promo": "https://www.youtube.com/embed/GFXQotn2r08",
+      "series": "Create-A-Monster"
     },
     {
       "year": 2011,
@@ -1858,7 +1860,9 @@
       "type": "Create-A-Monster",
       "id": 58,
       "reissue": false,
-      "promo": "https://www.youtube.com/embed/GFXQotn2r08"
+      "promo": "https://www.youtube.com/embed/GFXQotn2r08",
+      "series": "Create-A-Monster"
+
     },
     {
       "year": 2011,
@@ -1875,7 +1879,8 @@
       "type": "Create-A-Monster",
       "id": 59,
       "reissue": false,
-      "promo": "https://www.youtube.com/embed/GFXQotn2r08"
+      "promo": "https://www.youtube.com/embed/GFXQotn2r08",
+      "series": "Create-A-Monster"
     },
     {
       "year": 2011,
@@ -1892,7 +1897,8 @@
       "type": "Create-A-Monster",
       "id": 60,
       "reissue": false,
-      "video": "https://www.youtube.com/embed/IpWziN_8h0A"
+      "video": "https://www.youtube.com/embed/IpWziN_8h0A",
+      "series": "Create-A-Monster"
     },
     {
       "year": 2012,
@@ -2852,7 +2858,7 @@
     },
     {
       "year": 2012,
-      "series": ["Scaris: City of Frights"],
+      "series": "Scaris: City of Frights",
       "modelNumber": "Y4308",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2015/05/Scaris-Cafe-Cart-s.jpg",
@@ -3476,7 +3482,8 @@
       "type": "Create-A-Monster",
       "id": 136,
       "reissue": false,
-      "video": "https://www.youtube.com/embed/GFXQotn2r08"
+      "video": "https://www.youtube.com/embed/GFXQotn2r08",
+      "series": "Create-A-Monster"
     },
     {
       "year": 2012,
@@ -3496,6 +3503,7 @@
       ],
       "description": "This add-on lets you create a ghostly ghoul. It has white forearms and calves that transition to translucent hands and feet. Biceps, thighs, and a torso are not included.\nThe white head has yellow and gray eyes with a gray eyeshadow mask and red lips. Her short hair is a deep pink with purple highlights.\nShe has a halterneck dress with a jagged hem and a diamond print. The print has rows of skulls complemented by dripping black, white, and purple. Accessories consist of a dripping pink belt with lavender chains and translucent pink open-toe pumps with lavender chains.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 137,
       "reissue": false,
       "video": "https://www.youtube.com/embed/GFXQotn2r08"
@@ -3516,6 +3524,7 @@
       ],
       "description": "This add-on creates a bird-like ghoul. She has pink forearms, pink calves, three-toed feet, purple hands, and purple wing forearms trimmed with black.\nHer light pink head has green eyes, pink shadow, blue eyebrows, and pink lips. The hair is long and curly with pink highlights.\nShe has a strapless dress with an asymmetrical hem and a feather print that is black with shades of purple and pink. It is accessorized with magenta peep-toe wedges covered in feathers.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 138,
       "reissue": false,
       "video": "https://www.youtube.com/embed/GFXQotn2r08"
@@ -3538,6 +3547,7 @@
       ],
       "description": "This add-on lets you create a manster with puma features. It has light blue forearms, hands, calves, feet, a tail, and a head. Biceps, thighs, and a torso are not included.\nThe head has a pale blue patch on the face, orange-brown eyes, a black nose, black whisker spots, and light blue lips. He has short black hair.\nHis outfit has a dark blue tank top with a sky blue claw mark graphic. Black shorts and black high tops with blue laces and blue claw marks complete the look.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 139,
       "reissue": false,
       "video": "https://www.youtube.com/embed/GFXQotn2r08"
@@ -3560,6 +3570,7 @@
       ],
       "description": "This add-on creates a mermaid-like ghoul. It has light blue forearms with pink fins and hands with pink webbing. Instead of legs there is a turquoise fish tail with pink side and tail fins.\nThe head has purple eyes with turquoise shadow, purple eyeliner, teal eyebrows, and pink lips. Her hair is a curly blue with yellow streaks.\nShe has a black string halterneck top with a pink, black, blue, and light blue print. It is accessorized with two rope and scale belts. The blue belt has an anchor accent and the pink belt is decorated with a starfish and seashell.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 140,
       "reissue": false,
       "video": "https://www.youtube.com/embed/Eo3FEH7qbRI"
@@ -3579,6 +3590,7 @@
       ],
       "description": "The Mystical add-on has doll parts to create a pearly pink ghoul. It comes with hands, forearms, calves, feet, and a head. Upper limbs, hair, or clothing are not included.\nThere is a headband with a spiral unicorn horn and an extra head that is pearly green. The 75 face and body tattoos are glittery.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 141,
       "reissue": false,
       "video": "https://www.youtube.com/embed/GFXQotn2r08"
@@ -3598,6 +3610,7 @@
       ],
       "description": "The Nocturnal add-on has doll parts to create a custom ghoul. Parts include orange hands, forearms, calves and feet, a tail, clip-on ears, and a head. Upper limbs, hair, or clothing are not included. \nThere is an extra head that is green and 75 tattoos. The face and body tattoos are glow-in-the-dark. ",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 142,
       "reissue": false,
       "video": "https://www.youtube.com/embed/GFXQotn2r08"
@@ -3623,6 +3636,7 @@
       ],
       "description": "Lab\nThe lab has a black base adorned with strings of gray chains. The pink lid has ornate embossed designs, a black Monster High crest, and is trimmed with pyramid studs. It has a Skullette and chain handle and is held shut by a pink Skullette padlock.\nThe inside of the lab has a blue work area with spiderweb etchings and cutouts for various doll parts. Attached to the lid is a black tattoo device with a water tube. When water is pumped and the lever is pressed a tattoo is transferred to the doll. A pink Skullette applicator is included for touch-ups.\nOver 100 face and body tattoos come with the playset. Tattoos can be removed from the doll with warm soapy water. \nDoll\nThere are limbs, torso, and a head to create a light green ghoul. Her purple hair is long with blunt bangs. She does not have any facial features. \nHer short dress features wide black and gray stripes and pink sleeves with wavy black stripes. It is complemented by black pumps with Skullette ankle straps and pink stripes on the platforms and heels.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 143,
       "reissue": false,
       "video": "https://www.youtube.com/embed/ZkRpLEfFm0A"
@@ -3647,6 +3661,7 @@
       ],
       "description": "This starter pack lets you build your own Monster High dolls. It has two sets of body parts and two outfits.\nDoll Parts\nThe cat is light pink with arms, legs, torso, cat ears, tail, and head. The forearms and calves are adorned with black stripes. \nHer head has blue cat eyes, green shadow, a pink nose, whiskers, and dark red lips. The hair is streaked blue and purple and styled in a bob cut with bangs.\nThe witch has light green arms, legs, torso, and a head. The head has green eyes, purple eyeshadow, and green lips.\nClothing\nThe first outfit is a black sleeveless dress with yellow ruffles along the neckline and hem. The ruffles are decorated with black stitch stripes.\nNext is a black shirt with a dead green bird graphic. The shirt is complemented by a blue skirt with black tiger stripes.\nAccessories consist of a black mini-hat, a black belt with a green Skullette buckle, and a pair of black open-toe pumps with winding straps. There is also a black Skullette brush.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 144,
       "reissue": false,
       "video": "https://www.youtube.com/embed/GFXQotn2r08"
@@ -3671,6 +3686,7 @@
       ],
       "description": "This starter pack lets you build Monster High mansters. It has two sets of body parts and two outfits.\nDoll Parts\nThe Gargoyle is speckled gray with arms, legs, torso, small wings, and a head. The head has knobby pointed ears, yellow eyes with gray shadow, and gray lips. \nThe vampire is light pink with arms, legs, torso, and a head. On one forearm is a black bat tattoo. His head has red eyes highlighted with yellow and a fanged mouth. The hair is black, side swept, and has a patch of red on top.\nClothing\nThe first outfit is a classic Monster High uniform. The white athletic shirt has a pink collar, black sleeves, and a Monster High emblem. It is matched with black shorts trimmed with a jagged pink and white hem.\nThe second ensemble begins with a sleeveless black shirt that has red shoulders and dripping red horizontal stripes. It is completed with red cargo shorts.\nAccessories include a black Skullette brush and black high tops with red tongues, brown laces, and serrated details.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 145,
       "reissue": false,
       "video": "https://www.youtube.com/embed/GFXQotn2r08"
@@ -3691,6 +3707,7 @@
       ],
       "description": "This starter pack lets you build two Monster High dolls. It includes two sets of body parts and outfits.\nBody Parts\nThe Ice ghoul has translucent blue arms, legs, and torso. The blue head has crystal-like eyes with light purple shadow and pink lips. Her long pink and blue hair is straight with blunt bangs.\nThe Blob has translucent pink and sparkly arms, legs, and torso. The sparkly pink head has orange eyes with pink and lavender shadow, blue eyeliner, and red lips. Her molded short pink hair has a drippy style with curled ends.\nClothing\nThe halterneck dress is black with a decorative print. It has pink icicle stripes, blue diamond stripes with Skullette snowflakes, and pink details.\nNext is a form-fitting light blue dress with short sleeves. It has a print made up of pink drips and splatter. \nThe last item is a pair of translucent pink pumps. They have ankle straps, gooey accents, and dripping heels.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 146,
       "reissue": false,
       "video": "https://www.youtube.com/embed/yHcyErNtHQU&t=3s"
@@ -3715,6 +3732,7 @@
       ],
       "description": "This starter pack lets you build two Monster High dolls. It includes two sets of body parts and two outfits.\nBody Parts\nThe mummy has gray colored arms, legs, torso, and a head. Most of the body parts are bandage wrapped with golden highlights. Her head has turquoise eyes with copper shadow, Eye of Horus eyeliner, and red lips. Her straight hair is purple and black with blunt bangs.\nThe gorgon is light green with scaly arms, legs, torso, and a head. Her head has yellow eyes with vertical pupils, orange eyeshadow, purple eyeliner, and red lips. Her green molded hair is scaly with a green mass of writhing snakes.\nClothing\nThe Egyptian-themed dress is pink with a single shoulder strap and a black waist. It features a print with a variety of pink and turquoise hieroglyphs.\nThe second dress has a purple diamond scale print, a black halterneck strap, and a jagged green hem.\nOne pair of shoes are included. They are gold peep-toe pumps decorated with brick-like rows and straps.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 147,
       "reissue": false,
       "video": "https://www.youtube.com/embed/1edZHN9QCsg"
@@ -3737,6 +3755,7 @@
       ],
       "description": "The starter pack includes two sets of body parts and two outfits. It is an updated version of Vampire & Sea Monster that includes a torso for the sea monster.\nDoll Parts\nTo create a vampire there are pale pink arms, legs, torso, and head. The head has long black hair with purple highlights, purple eyes with lavender shadow, and red fanged lips.\nThe sea monster is blue with arms, legs, torso, and head. Squiggly tentacles are on the forearms and the calves have fins. The head has light green eyes, turquoise eyeshadow, and turquoise lips.\nClothing\nThe first outfit has a top with a purple halter neck, purple chest, and a gold bat wing accent. The bodice is black with purple helix stripes. The black skirt has sparkly black stripes and a ruffled purple hem.\nNext is a one-shoulder black top with yellow bubbles and blue and purple splatter. It is complemented by a dark turquoise skirt with a print of wavy pink lines and orange circles.\nFor accessories there is a red bat wing barrette and black open-toe pumps with black and purple ankle straps.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 148,
       "reissue": true,
       "video": "https://www.youtube.com/embed/Y8VCVFNXMXQ"
@@ -3763,6 +3782,7 @@
       ],
       "description": "This starter pack includes two sets of body parts and two outfits so you can build your own Monster High doll. It is a reissue of Werewolf & Dragon with an added torso for the dragon body.\nDoll Parts\nThe werewolf is gray with arms, legs, ears, torso, and head. The head has crimson pink hair, blue eyes with pink shadow, and red fanged lips.\nThe dragon body is a scaly light pink with arms, legs, torso, and small green wings. The head has bluish green eyes with green scale shadow and purple fanged lips.\nClothing\nThe first dress has a black form-fitting bodice and a violet skirt decorated with an intricate black and lavender print. Over the top is sheer black jacket. It is frilly with a pattern of violet crescent moons.\nThe second outfit has a matching halterneck top and skirt. They have black trim and feature a split print. One is green speckled with black and white and the other is a chartreuse scale print.\nFinally, there is a pair of black peep-toe wedges with crescent moon accents.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 149,
       "reissue": true,
       "video": "https://www.youtube.com/embed/IpWziN_8h0A"
@@ -5633,6 +5653,7 @@
       ],
       "description": "The Skultimate set creates four dolls with clothes and accessories. There is also a black Skullette brush and four black doll stands.\nThe ghouls are Ice, Gorgon, Vampire, and Insect. They were previously released in starter or add-on packs.\nIce\nThe ice ghoul has translucent blue limbs and torso. The head has crystal-like eyes, light purple shadow, and pink lips. Her pink and blue hair is long and straight with blunt bangs. \nHer dress is light blue with short sleeves and a pink print with drips and splatter. She has translucent pink pumps with ankle straps and gooey heels.\nGorgon\nThe gorgon has scaly green limbs, torso, and head. She has yellow eyes with vertical pupils, orange eyeshadow, purple eyeliner, and red lips. Her green molded hair is scaly with a ponytail of snakes.\nShe has a purple diamond scale print, a black halterneck strap, and a jagged green hem. It is accessorized with gold peep-toe pumps that have brick-like rows and straps.\nVampire\nThe vampire is pale pink with arms, legs, torso, and head. She has purple eyes with lavender shadow, red fanged lips, and clip-on ears. Her molded short pink hair has drips and curled ends.\nShe wears a black sleeveless dress with yellow ruffles along the neckline and hem. The ruffles are decorated with black stitch stripes. Her shoes are pink open-toe pumps with chains.\nInsect\nThe insect-like ghoul has translucent gray bug wings and yellow body parts that transition to black at the hands and feet. She has compound eyes with green, orange, and blue shadow and violet lips. Her bob cut is streaked blue and purple.\nShe has a form-fitting dress with yellow-gold and black diagonal lines accented by magenta dots. The shoulder and sleeves are black mesh. Accessories consist of gray bug glasses with antennae and black pumps.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 234,
       "reissue": false,
       "video": "https://www.youtube.com/embed/4chpgwmUDAU"
@@ -5664,6 +5685,7 @@
       ],
       "description": "The Design Chamber has shelving, a lab table, cart, tumbler, accessories, doll parts, and clothing. The playset lets you create a ghoul and customize it with color-changing technology.\nShelving\nThe shelves are black with a lavender backdrop that has spiderweb cutouts, swirls, and a Skullette topper. At the base is a tufted black bench with a red front decorated with a winged Skullette. On each side of the case are spiral holders for the color-change styluses. \nLab Table\nThe table has a purple tufted top with a black studded frame. It has a black base with gray wrought iron trim and a gray levered mechanism that raises and lowers the table.\nCart\nThe cart has a gray body with a black top, black stand, and purple wheels. It is decorated with dials, gauges, and spiderwebs. \nTumbler\nThe tumbler is a translucent blue cylinder with a Skullette graphic and a gray base and lid. The lid is attached to a spiderweb basket inside the tumbler.\nColor-Change Accessories\nCreate color-change effects with a a light-up stylus and cold stylus or use cold water and the spray mister and Skullette applicator. Water can be kept in the clear beaker and body parts can be placed in the water-filled tumbler with skeletal tongs.\nDoll\nThe doll has pink limbs, torso, head and hair with color-changing features. The head has blue eyes with light pink shadow, pink designs, and pink lips. Her dark turquoise hair has streaks of light purple.\nClothing\nShe wears a color-changing dress that is a purple-gray with a cobblestone print. It has black shoulder straps and a black asymmetrical skirt with a serrated hem. \nAccessories consist of blue wedge sandals and arm and leg sleeves. The sleeves are made up of scale cutouts with spiked scale accents.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 235,
       "reissue": false,
       "video": "https://www.youtube.com/embed/3Cc040fdpnM"
@@ -5692,6 +5714,7 @@
       ],
       "description": "This add-on has color-changing clothes and accessories for the Sea Monster.\nThe first dress is pink with black mesh shoulders and sleeves. It has an asymmetrical black patch with wavy white lines, and a shredded hem. The one-shoulder dress is black with a front patch, blue waist, and a shredded purple hem.\nAccessories include pink arm and leg sleeves that have fins and cutouts. For shoes there is a pair of bubbly blue wedges.\nColor-change accessories consist of a pink friction pen and a clear Skullette beaker.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 236,
       "reissue": false,
       "video": "https://www.youtube.com/embed/062iJQaL9Ik"
@@ -5716,6 +5739,7 @@
       ],
       "description": " This starter pack has a color-changing ghoul with color-changing clothes and accessories.\nSea Monster\nThe Sea Monster has light blue limbs, torso, and head. Her molded hair is purple with a pink streak in the front, blue fins on top, and a swoop on the back. She has light green eyes with pink shadow, purple eyebrows, and chartreuse lips.\nClothing\nShe wears a one shoulder dress with a rainbow of colors, a black tentacle print, and a scalloped hem. It is complemented by two sets of arm and leg sleeves. The first set is translucent aquamarine with fin accents and the second set is made up of chartreuse tentacles. For shoes she has a pair of purple open-toe pumps.\nAccessories\nTo use the color-change technology there is a blue ice pen and a red friction pen. There is also a black stand with a clear pedestal.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 237,
       "reissue": false,
       "video": "https://www.youtube.com/embed/GFXQotn2r08"
@@ -5737,6 +5761,7 @@
       ],
       "description": "This add-on has color-changing clothes and accessories for the Werewolf.\nThe one shoulder dress is black with a ruffled purple hem and a patch in the front with squiggly white lines. Next is a gray dress with black straps, a tattered asymmetrical hem, and a pink sash.\nAccessories include furry pink arm and leg sleeves with cutouts. For shoes there are purple peep-toe wedges with crescent moon cutouts in the heels.\nColor-change accessories consist of a pink friction pen and a clear Skullette beaker.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 238,
       "reissue": false,
       "video": "https://www.youtube.com/embed/Fu3e4nohd28"
@@ -5766,6 +5791,7 @@
       ],
       "description": "This starter pack has a color-changing ghoul with color-changing clothes and accessories.\nWerewolf\nThe Werewolf has limbs, torso, and a head. She has pale turquoise eyes, teal eyeshadow, blue eyebrows, and magenta fanged lips. Her molded hair is pink with a turquoise streak in the front, purple ears, and a bob cut. \nClothing\nShe has a slate blue dress with black straps and a serrated hem. It is decorated with yellow moons and stars and cloudy magenta shapes. \nWith the dress are two sets of arm and leg sleeves. The first is translucent black with cutouts and the second set is a furry fuchsia. Her shoes are open-toe pumps with crescent moon heels.\nAccessories\nTo use the color-change technology there is a blue ice pen and a red friction pen. There is also a black stand with a clear pedestal.",
       "type": "Create-A-Monster",
+      "series": "Create-A-Monster",
       "id": 239,
       "reissue": false,
       "video": "https://www.youtube.com/embed/Fu3e4nohd28"
@@ -7842,6 +7868,7 @@
       ],
       "description": "The deluxe pack has a light purple ghoul with interchangeable parts and a wide variety of accessories.\nDoll\nThe doll has an exposed orange brain that changes her eyes when pressed. She has blue eyes, purple eyes, and pink & magenta eyes with star accents.\nThere are two types of hair. The first is purple with a magenta under layer and the second is molded opaque purple with a twisted genie ponytail.\nHer lavender torso can be replaced with a translucent one that has a light blue skeleton. The skeleton can be decorated with the twelve included emoticons that feature Skullettes, hearts, a balloon animal, and more.\nA genie-like lower half can replace the legs. It is magenta with a green waist and looks like a tendril of smoke with a billowy base.\nYellow moth-like wings can be attached to her back. They have tattered cutouts and orange details.\nShe has four face masks; one simple and three detailed. The first has orange and pink shadow, colorful stars, starry eye details, and hot pink lips. The next one has a dark yellow eyeshadow mask with bubble accents and a smiling mouth with pink lips. The last mask has purple eyeliner, a swirly aqua blue makeup mask, and a frowning mouth with bright pink lips.\nClothes\nThe two-piece green dress has a sweetheart neckline with a single purple strap that goes from the shoulder to the short skirt. The outfit is decorated with a fun print that has spiderwebs, stars, balloon animals, and lightning.\nThere is also a second shirt. The one shoulder top is blue with a black mesh neckline. It features tears, clouds, sad faces, broken hearts, and Skullettes.\nAccessories consist of translucent purple arm wraps, a molded purple chain overskirt, and a black Skullette with a violet bow. Her shoes are black peep-toe booties decorated with straps and studs.\nAlso included is a black Skullette brush, a clear doll stand with a black Skullette base, and a blank diary.",
       "type": "Inner Monster",
+      "series": "Inner Monster",
       "id": 332,
       "reissue": false,
       "video": "https://www.youtube.com/embed/bmjeFB7eEYs&t=73s"
@@ -7863,6 +7890,7 @@
       ],
       "description": "This add-on has a fiery theme that includes a face mask, hair, emoticons, and clothing.\nDoll Parts\nThe face mask is light pink with red and orange flames for eyeshadow and red lips. The fiery molded hair is an opaque yellow that transitions to orange in the back. There are four emoticons; a red and orange sacred heart, a pineapple, monster marshmallows on a stick, and a stick of dynamite with a lit fuse.\nClothing\nThe dress has a sweetheart neckline, black straps, a red waist, and a jagged hem. It features a black and blue flame print with flaming Skullettes, red dynamite, red sacred hearts, and monster-like marshmallows.\nAccessories consist of arm and leg wraps made up of red and orange flames. For shoes, there are translucent orange fiery pumps with blue sacred heart heels.",
       "type": "Inner Monster",
+      "series": "Inner Monster",
       "id": 333,
       "reissue": false,
       "video": "https://www.youtube.com/embed/zxidCxqK7io"
@@ -7882,6 +7910,7 @@
       ],
       "description": "This add-on has a monstrously fun theme that includes a face mask, hair, emoticons, and clothing.\nDoll Parts\nThe face mask is a light orange with purple and yellow eyeshadow, light blue eyeliner, and hot pink lips with a tongue poking out. The molded green hair has two buns, bangs, and hanging side curls. There are four orange emoticons; a Skullette jack-in-the-box, an ice cream sundae, a jester hat, and a heart with glasses.\nClothing\nThe halterneck dress has a big sheer purple ruffled collar, a purple waist, and a double layered skirt. It features a pink, yellow, and gray diamond print decorated with Skullettes with their tongues out, Skullettes with jester hats, spiderwebs, and hearts.\nAccessories consist of winding arm and leg wraps made from purple tentacles. For shoes, there is a pair of green pumps with tentacle heels and purple and orange flowers on the toes.",
       "type": "Inner Monster",
+      "series": "Inner Monster",
       "id": 334,
       "reissue": false,
       "video": "https://www.youtube.com/embed/bmjeFB7eEYs"
@@ -7901,6 +7930,7 @@
       ],
       "description": "This add-on has a candy themed face mask, hair, emoticons, and clothing.\nDoll Parts\nThe face mask is light blue with a whip cream shadow mask, colorful sprinkles, and peppermint candy lips. The molded hair is a dripping yellow with a dollop swirl on top. There are four emoticons; a pink Skullette, a pink sugar skull, turquoise and purple candy, and a purple heart with ruffles.\nClothing\nThe halterneck dress has a black collar, black waist, and a puffy skirt. It features a very busy print with pink candy skulls, yellow drips, hard candy, and hearts.\nAccessories consist of dripping pink arm and legs wraps with white candy accents. For shoes, there are yellow open-toe pumps with lollipop heels.",
       "type": "Inner Monster",
+      "series": "Inner Monster",
       "id": 335,
       "reissue": false,
       "video": "https://www.youtube.com/embed/bmjeFB7eEYs"
@@ -7930,6 +7960,7 @@
       ],
       "description": "This starter pack includes a ghoul with interchangeable parts and lots of accessories.\nDoll\nThe doll is light pink with an exposed pink brain, a translucent pink torso, and removable face plates. Drippy heart birthmarks cover the lower half of her limbs. She has straight hair with blunt bangs that is pink with black streaks.\nWhen you press her brain her eyes change. She has blue eyes with slit pupils, pink and turquoise heart-shaped eyes, and fiery orange and red eyes with slit pupils.\nThe torso opens to reveal her skeletal insides which can be decorated with a variety of emoticons. The eight emoticons include multiple Skullettes, a heart & arrow, a heart cluster, orange intestines, and a hot pepper.\nShe has two face masks; one simple and one detailed. The detailed mask has drippy blue heart-shaped eyeshadow, pink and blue hearts, and pink and blue lips.\nTwo sets of wings can be attached to her back. The first is made up of bug-like pink bones and the second has fiery orange feathery wings with black clips.\nClothes\nThe blue dress has a sweetheart top with a black mesh halterneck and a translucent pink collar. It features a print with pink and red hearts and Skullettes. At the waist is a ruffled double peplum that is pink and yellow translucent plastic.\nAccessories consist of pink glasses with heart-shaped lenses, a black Skullette purse with a pink bow, and two pairs of shoes. The first pair are orange gravity wedges with black heart chains and the second pair are translucent orange peep-toe wedges with feather details.\nAlso included is a black Skullette brush, a clear doll stand with a black Skullette base, and a blank diary.",
       "type": "Inner Monster",
+      "series": "Inner Monster",
       "id": 336,
       "reissue": false,
       "video": "https://www.youtube.com/embed/bmjeFB7eEYs&t=73s"
@@ -7967,6 +7998,7 @@
       ],
       "description": "This starter pack has a light orange ghoul with interchangeable parts and accessories.\nDoll\nThe doll has an exposed green brain, a translucent torso, removable face plates, and purple hair with blunt bangs and highlights. When you press her brain her eyes change. She has blue eyes, green & yellow mesmerizing swirls, and lined eyes that are orange & yellow with slit pupils.\nThe torso opens to reveal her light blue skeletal insides which can be decorated with a variety of emoticons. The eight emoticons include two Skullettes, a flower, turtle, heart, bone, funny glasses, and worms.\nShe has two face masks; one simple and one detailed. The detailed mask has blue and lavender shadow, pistil accents, and a flower detail around the right eye.\nTwo appendages can be attached to her back. The first one has eight purple tentacles with orange suckers and the second appendage is comprised of  turquoise leaves and twisting vines that can wrap around her body.\nClothes\nThe two-piece lavender dress has a one-shoulder top with a sea green puff, a turquoise waist, and a double layered skirt. It is decorated with a print that has purple vines, turquoise flowers, black ivy, worms, and other cute critters.\nAccessories consist of sea green glasses, a black Skullette purse with a turquoise bow, and two pairs of shoes. The first are open-toe pumps made from purple tentacles and the second pair are turquoise peep-toe pumps made of leaves and vines.\nAlso included is a black Skullette brush, a clear doll stand with a black Skullette base, and a blank diary.",
       "type": "Inner Monster",
+      "series": "Inner Monster",
       "id": 337,
       "reissue": false,
       "video": "https://www.youtube.com/embed/bmjeFB7eEYs&t=73s"
@@ -8004,6 +8036,7 @@
       ],
       "description": "This starter pack has a light blue ghoul with interchangeable parts and lots of accessories.\nDoll\nThe doll has an exposed purple brain, a translucent torso, removable face plates, and bright blue hair. When you press her brain her eyes change. She has blue eyes with white highlights, magenta hearts with heart details, and green and purple flower-like eyes.\nThe torso opens to reveal her yellow skeletal insides which can be decorated with a variety of emoticons. The eight emoticons include two Skullettes, a heart with a mohawk, a blue shoe, a cupcake, purple lips, a pink tooth, and a pink bow.\nShe has two face masks; one simple and one detailed. The detailed mask has a diagonal pink stripe between yellow stripes and a mesh design across the eyes.\nTwo appendages can be attached to her back. The first is a pair of pink bat wings and the second is a blue peacock-like tail with decorative cutouts and pink and yellow accents.\nClothes\nThe halterneck dress has a pink collar and a pink skirt. The bodice and peplum are black with pink polka dots decorated with yellow stars, blue Skullettes, light blue splatter, and other designs.\nAccessories begin with a purple headband that has three blue antennae adorned with yellow hearts. Next is a black Skullette purse and two pairs of pumps. The first are pink with yellow bat candy accents and the second pair are purple with feather details.\nAlso included is a black Skullette brush, a clear doll stand with a black Skullette base, and a blank diary.",
       "type": "Inner Monster",
+      "series": "Inner Monster",
       "id": 338,
       "reissue": false,
       "video": "https://www.youtube.com/embed/bmjeFB7eEYs&t=73s"
@@ -12593,9 +12626,9 @@
     },
     {
       "year": 2017,
-      "character": ["Draculaura", "Dracula"],
+      "character": ["Draculaura", "Count Dracula"],
       "series": "Monster Family",
-      "gender": ["Ghoul"],
+      "gender": ["Ghoul", "Manster"],
       "modelNumber": "FCV75",
       "galleryImagesLinks": [
         "https://mhcollector.com/wp-content/uploads/2017/08/Vampire-Kitchen-1.jpg",

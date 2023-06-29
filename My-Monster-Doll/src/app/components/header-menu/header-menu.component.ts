@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { Observable, lastValueFrom } from 'rxjs';
 import { DollService } from 'src/app/services/doll.service';
-import { icons, types } from 'src/assets/menu';
+import { characters, types, series, years, genders, exclusives } from 'src/assets/menu';
 
 
 @Component({
@@ -11,8 +11,13 @@ import { icons, types } from 'src/assets/menu';
   styleUrls: ['./header-menu.component.scss']
 })
 export class HeaderMenuComponent implements OnInit {
-  public icon: any= icons;
+  public dollCharacter: any= characters;
   public dollType: any = types;
+  public dollSeries: any = series;
+  public dollYear: any = years;
+  public dollGender: any = genders;
+  public dollExclusive: any = exclusives;
+
 
   public types$: Observable<string[]>;
   public characters$: Observable<string[]>;
@@ -34,7 +39,6 @@ export class HeaderMenuComponent implements OnInit {
    }
 
   ngOnInit(): void {
-    console.log(icons['Amanita Nightshade']);
   }
 
   public async onRoute(menuItem: string, par:string) {

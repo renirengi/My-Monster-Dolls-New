@@ -30,14 +30,15 @@ export class DollService {
           if (value === 'year') {
             dolls.forEach((doll) => years.add(doll.year));
           } else if (value === 'type') {
-            dolls.forEach((doll) =>{
-              if (doll.type) {years.add(doll.type)}
-              else { console.log(doll.id)}
-            });
-          } else if (value === 'series') {
-            dolls.forEach((doll) => years.add(doll.series));
+            dolls.forEach((doll) =>years.add(doll.type));
+          } else if (value === 'series') {dolls.forEach((doll) =>{
+            if (doll.series) {years.add(doll.series)}
+            else { console.log(doll.id)}
+          });
           } else if (value === 'exclusive') {
-            dolls.forEach((doll) => years.add(doll.exclusive));
+            dolls.forEach((doll) => {
+              if (doll.exclusive) years.add(doll.exclusive)
+            });
           } else if (value === 'character') {
             dolls.forEach((doll) => doll.character?.forEach((item)=> years.add(item)))
           }

@@ -34,8 +34,8 @@
 <mat-menu #character="matMenu">
   <div class="categories-menu" *ngFor = "let character of characters$ | async">
     <button mat-menu-item (click)="onRoute('character', character)">
-      <ng-container *ngIf="icon[character]; else char">
-        <img [src]="icon[character]">
+      <ng-container *ngIf="dollCharacter[character]; else char">
+        <img [src]="dollCharacter[character]">
       </ng-container>
 
       <ng-template #char>
@@ -47,24 +47,39 @@
 
 <mat-menu #years="matMenu">
   <div class="categories-menu" *ngFor = "let year of years$ | async">
-    <button mat-menu-item (click)="onRoute('year', year)">{{year}}</button>
+    <button mat-menu-item (click)="onRoute('year', year)">
+      <img [src]="dollYear[year]">
+      {{year}}</button>
   </div>
 </mat-menu>
 
 <mat-menu #gender="matMenu">
   <div class="categories-menu" *ngFor = "let gender of genders$ | async">
-    <button mat-menu-item (click)="onRoute('gender', gender)">{{gender}}</button>
+    <button mat-menu-item (click)="onRoute('gender', gender)">
+      <img [src]="dollGender[gender]">
+      {{gender}}</button>
   </div>
 </mat-menu>
+
 <mat-menu #series="matMenu">
   <div class="categories-menu" *ngFor = "let s of series$ | async">
-    <button mat-menu-item (click)="onRoute('series', s)">{{s}}</button>
+    <button mat-menu-item (click)="onRoute('series', s)">
+      <ng-container *ngIf="dollSeries[s]; else ser">
+        <img [src]="dollSeries[s]">
+      </ng-container>
+
+      <ng-template #ser>
+        <img src="https://static.wikia.nocookie.net/monsterhigh/images/d/d5/Assortment_logo_-_Go_Monster_High_Team%21%21%21.png">
+      </ng-template>
+      {{s}}</button>
   </div>
 </mat-menu>
 
 <mat-menu #exclusive="matMenu">
   <div class="categories-menu" *ngFor = "let exclusive of exclusives$ | async">
-    <button mat-menu-item (click)="onRoute('exclusive', exclusive)">{{exclusive}}</button>
+    <button mat-menu-item (click)="onRoute('exclusive', exclusive)">
+      <img [src]="dollExclusive[exclusive]">
+      {{exclusive}}</button>
   </div>
 </mat-menu>
 

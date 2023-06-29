@@ -7,7 +7,7 @@ export const types = {
 "Playset": "../assets/icons/types/Playsets.jpg",
 };
 
-export const icons = {
+export const characters = {
   "Frankie Stein":"../assets/icons/characters/Frankie_Skullette.webp",
   "Draculaura":"../assets/icons/characters/Draculaura_Skullette.webp",
   "Clawdeen Wolf":"../assets/icons/characters/Clawdeen_Skullette.webp",
@@ -81,7 +81,7 @@ export const icons = {
   "Kala Mer'ri": "../assets/icons/characters/Kala_Skullette.png",
   "Beetlejuice":"../assets/icons/characters/Beetlejuice_Skullette.webp",
   "Beetrice":"../assets/icons/characters/Beetrice_Skullette_2.webp",
-  "Dracula":"../assets/icons/characters/Dracula_Skullette.webp",
+  "Count Dracula":"../assets/icons/characters/Dracula_Skullette.webp",
   "Grady Twins": "../assets/icons/characters/Grady_Twins_Skullette.webp",
   "Moanica D'Kay":"../assets/icons/characters/Moanica_Skullette.PNG.webp",
   "Pennywise": "../assets/icons/characters/Pennywise_Skullette.webp",
@@ -89,45 +89,79 @@ export const icons = {
   "Posea Reef":"../assets/icons/characters/Posea_Skullette.webp"
 };
 
+export const years = {
+"2010":"../assets/icons/years/2010.webp",
+"2011":"../assets/icons/years/2011.webp",
+"2012":"../assets/icons/years/2012.webp",
+"2013":"../assets/icons/years/2013.webp",
+"2014":"../assets/icons/years/2014.webp",
+"2015":"../assets/icons/years/2015.webp",
+"2016":"../assets/icons/years/2016.webp",
+"2017":"../assets/icons/years/2017.webp",
+"2018":"../assets/icons/years/2017.webp",
+"2020":"../assets/icons/years/2020.webp",
+"2021":"../assets/icons/years/2020.webp",
+"2022":"../assets/icons/years/2017.webp",
+};
 
-export const iconsLogo = {
+export const genders = {
+  "Ghoul":"../assets/icons/gender/Ghoul.jpg",
+  "Manster":"../assets/icons/gender/Manster.jpg"
+}
+
+
+export const series = {
   "Signature":"../assets/icons/series/Signature.webp",
   "Dawn of the Dance":"../assets/icons/series/Dawn_of_the_Dance.webp",
   "Gloom Beach":"../assets/icons/series/Gloom_Beach.webp",
   "Sweet 1600":"../assets/icons/series/Sweet_1600.webp",
-  "Dead Tired":"https://static.wikia.nocookie.net/monsterhigh/images/2/2b/Dead_Tired_Icon.jpg",
-  "Skull Shores":"https://static.wikia.nocookie.net/monsterhigh/images/4/45/SkullShoresLogo.png",
-  "Dot Dead Gorgeous":"https://static.wikia.nocookie.net/monsterhigh/images/e/e2/Assortment_logo_-_Dot_Dead_Gorgeous.png",
-  "Ghouls Rule":"https://static.wikia.nocookie.net/monsterhigh/images/1/16/Assortment_logo_-_Ghouls_Rule.png",
-  "I Love Fashion":"https://static.wikia.nocookie.net/monsterhigh/images/7/73/I_Heart_Fashion_Icon.png",
-  "Scaris: City of Frights":"https://static.wikia.nocookie.net/monsterhigh/images/3/3e/Assortment_logo_-_Scaris_City_of_Frights.jpg",
-  "Ghoul’s Alive!":"https://static.wikia.nocookie.net/monsterhigh/images/7/7e/Assortment_logo_-_Ghoul%27s_Alive.png",
-  "Skultimate Roller Maze":"https://static.wikia.nocookie.net/monsterhigh/images/a/ae/Assortment_logo_-_Skultimate_Roller_Maze.png",
-  "Dance Class":"https://static.wikia.nocookie.net/monsterhigh/images/6/63/Assortment_logo_-_Dance_Class.jpg",
-  "Picture Day":"https://static.wikia.nocookie.net/monsterhigh/images/e/e5/Assortment_logo_-_Picture_Day.png",
-  "Power Ghouls":"https://static.wikia.nocookie.net/monsterhigh/images/f/f3/Assortment_logo_-_Power_Ghouls.png",
-  "13 Wishes":"https://static.wikia.nocookie.net/monsterhigh/images/8/8f/Assortment_logo_-_13_Wishes.jpg",
-  "Ghoul’s Night Out":"https://static.wikia.nocookie.net/monsterhigh/images/0/04/Assortment_logo_-_Ghouls_Night_Out.png",
-  "Art Class":"https://static.wikia.nocookie.net/monsterhigh/images/8/87/Assortment_logo_-_Art_Class.png",
-  "Music Festival":"https://static.wikia.nocookie.net/monsterhigh/images/b/b2/Assortment_logo_-_Music_Festival.png",
-  "Monster Exchange":"https://static.wikia.nocookie.net/monsterhigh/images/a/a1/Monster_Exchange_Icon.png",
-  "Zombie Shake":"https://static.wikia.nocookie.net/monsterhigh/images/a/af/Zombie_Shake_Icon.png",
-  "Freaky Fusion":"https://static.wikia.nocookie.net/monsterhigh/images/6/61/Freaky_Fusion_Icon.png",
-  "Haunted":"https://static.wikia.nocookie.net/monsterhigh/images/3/34/Haunted_Icon.png",
-  "Gloom and Bloom":"https://static.wikia.nocookie.net/monsterhigh/images/e/e2/Gloom_and_Bloom_Icon.png",
-  "Coffin Bean":"https://static.wikia.nocookie.net/monsterhigh/images/1/1c/Coffin_Bean_Icon.png",
-  "Creepateria":"https://static.wikia.nocookie.net/monsterhigh/images/d/d4/Creepateria_Icon.png",
-  "Freaky Field Trip":"https://static.wikia.nocookie.net/monsterhigh/images/1/10/Freaky_Field_Trip_Icon.png",
-  "Geek Shriek":"https://static.wikia.nocookie.net/monsterhigh/images/7/7b/Geek_Shriek_Icon.png",
-  "Boo York, Boo York":"https://static.wikia.nocookie.net/monsterhigh/images/5/52/Boo_York%2C_Boo_York_Icon.png",
-  "Freak du Chic":"https://static.wikia.nocookie.net/monsterhigh/images/5/58/Freak_Du_Chic_Noir_Icon.png",
-  "Great Scarrier Reef":"https://static.wikia.nocookie.net/monsterhigh/images/4/4e/Yayomg-great-scarrier-reef-333x166_%282%29.png",
-  "Scarnival":"https://static.wikia.nocookie.net/monsterhigh/images/b/b6/Clawd_wolf_scarnival_booth_doll_in_box.png",
-  "Gore-geous Accessories":"https://static.wikia.nocookie.net/monsterhigh/images/c/c3/Gore-geous_Accessories_Icon.png",
-  "Fangtastic Fitnes":"https://static.wikia.nocookie.net/monsterhigh/images/a/a8/Fangtastic_Fitness_Icon.png",
-  "Ghoul Fair":"https://static.wikia.nocookie.net/monsterhigh/images/4/40/Ghoul_Fair_Icon.png",
-  "Frightfully Tall Ghouls":"https://static.wikia.nocookie.net/monsterhigh/images/3/3b/Frightfully_Tall_Ghouls_Icon.png",
-  "Skullector":"https://static.wikia.nocookie.net/monsterhigh/images/7/79/Skullector.png"
+  "Dead Tired":"../assets/icons/series/Dead_Tired.webp",
+  "Skull Shores":"../assets/icons/series/SkullShores.webp",
+  "Dot Dead Gorgeous":"../assets/icons/series/Dot_Dead_Gorgeous.webp",
+  "Ghouls Rule":"../assets/icons/series/Ghouls_Rule.webp",
+  "I Love Fashion":"../assets/icons/series/I_Heart_Fashion_Icon.webp",
+  "Scaris: City of Frights":"../assets/icons/series/Scaris_City_of_Frights.webp",
+  "Ghoul’s Alive!":"../assets/icons/series/Ghoul_Alive.webp",
+  "Skultimate Roller Maze":"../assets/icons/series/Skultimate_Roller_Maze.webp",
+  "Dance Class":"../assets/icons/series/Dance_Class.webp",
+  "Picture Day":"../assets/icons/series/Picture_Day.webp",
+  "Power Ghouls":"../assets/icons/series/Power_Ghouls.webp",
+  "13 Wishes":"../assets/icons/series/13_Wishes.webp",
+  "Ghoul’s Night Out":"../assets/icons/series/Ghouls_Night_Out.webp",
+  "Art Class":"../assets/icons/series/Art_Class.webp",
+  "Music Festival":"../assets/icons/series/Music_Festival.webp",
+  "Monster Exchange":"../assets/icons/series/Monster_Exchange_Icon.webp",
+  "Zombie Shake":"../assets/icons/series/Zombie_Shake_Icon.webp",
+  "Freaky Fusion":"../assets/icons/series/Freaky_Fusion_Icon.webp",
+  "Haunted":"../assets/icons/series/Haunted_Icon.webp",
+  "Gloom and Bloom":"../assets/icons/series/Gloom_and_Bloom_Icon.webp",
+  "Coffin Bean":"../assets/icons/series/Coffin_Bean_Icon.webp",
+  "Creepateria":"../assets/icons/series/Creepateria_Icon.webp",
+  "Freaky Field Trip":"../assets/icons/series/Freaky_Field_Trip_Icon.webp",
+  "Geek Shriek":"../assets/icons/series/Geek_Shriek_Icon.webp",
+  "Boo York, Boo York":"../assets/icons/series/Boo_York.webp",
+  "Freak du Chic":"../assets/icons/series/Freak_Du_Chic_Noir.webp",
+  "Great Scarrier Reef":"../assets/icons/series/Great-scarrier-reef.webp",
+  "Scarnival":"../assets/icons/series/Clawd_wolf_scarnival_booth_doll_in_box.webp",
+  "Gore-geous Accessories":"../assets/icons/series/Gore-geous_Accessories_Icon.webp",
+  "Fangtastic Fitnes":"../assets/icons/series/Fangtastic_Fitness.webp",
+  "Ghoul Fair":"../assets/icons/series/Ghoul_Fair.webp",
+  "Frightfully Tall Ghouls":"../assets/icons/series/Frightfully_Tall_Ghouls.webp",
+  "Skullector":"../assets/icons/series/Skullector.webp"
 }
+
+export const exclusives = {
+  "Comic Con":"../assets/icons/exclusives/Comic_Con.webp",
+  "Toys”R”Us":"../assets/icons/exclusives/Toys__R__Us.svg.png",
+  "Target": "../assets/icons/exclusives/Target.svg.png",
+  "Walmart":'../assets/icons/exclusives/Walmart.png',
+  "Kohls": "../assets/icons/exclusives/Kohls.png",
+  "Costco":"../assets/icons/exclusives/Costco.jpg",
+  "JCPenney":"../assets/icons/exclusives/JCPenney.jpg",
+  "KMart":"../assets/icons/exclusives/Kmart.jpg",
+  "Justice":"../assets/icons/exclusives/Justice.png",
+  "Amazon":"../assets/icons/exclusives/Amazon.svg.png",
+  "Mattel Shop":"../assets/icons/exclusives/Mattel.png"
+};
 
 
