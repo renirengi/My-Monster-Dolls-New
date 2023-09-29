@@ -1,0 +1,105 @@
+.doll-page {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 90%;
+  margin: 2em auto;
+
+  .doll-page-header{
+    display: flex;
+    margin:  0 1.5em;
+  }
+  .doll-page-body {
+    margin:  0 1.5em;
+
+    .doll-page-name-container {
+
+      h2 {
+        margin: 0.5em 0;
+        font-size: 2em;
+      }
+
+    }
+
+    .header-right {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    app-doll-rating {
+      margin-bottom: 1em;
+    }
+  }
+
+  .doll-page-header {
+    justify-content: space-between;
+  }
+
+  .doll-page-body {
+
+    .video-content-container{
+      display: flex;
+
+     img {
+      margin: 1em 0;
+      width: 25%;
+      }
+
+      .doll-link-container {
+        margin: 2em 2em 2em 0;
+        width:15%;
+
+        a{
+          width: 70px;
+          height: 70px;
+          border-radius: 50%;
+          margin: 1em;
+        }
+
+        button {
+          margin: 1.5em 0;
+          width: 100%;
+        }
+
+      }
+
+    }
+
+
+    .doll-information-container {
+      margin: 1em 2em;
+      width: 75%;
+
+      p {
+        text-align:justify;
+      }
+
+      .array-container {
+        display: inline-block;
+        text-align: center;
+        button,
+        p {
+          padding: 0.5em 1em;
+          margin: 0 1em 1em 1em;
+          border: 2px solid white;
+          border-radius: 20px;
+          text-align: center;
+
+        }
+      }
+
+      .film-notes-container {
+        p {
+          text-align:justify;
+        }
+      }
+
+    }
+
+  }
+  .review-form-button {
+    width: 20%;
+    margin: 0 auto;
+  }
+}

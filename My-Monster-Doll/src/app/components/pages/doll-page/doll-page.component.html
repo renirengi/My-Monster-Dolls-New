@@ -1,0 +1,53 @@
+<ng-container *ngIf="doll$ | async as doll">
+  <div class="page">
+     <div class="doll-page">
+        <section class="doll-page-header">
+           <div class="doll-page-name-container">
+              <div class="character-title" *ngFor="let item  of doll.character">
+                 <h2>{{item | uppercase}}</h2>
+              </div>
+              <h3 *ngIf="doll.series">{{doll.series}} <span>{{doll.year}}</span></h3>
+           </div>
+           <div class="header-right">
+              <app-doll-rating [rating]="doll.rating"></app-doll-rating>
+           </div>
+        </section>
+
+        <section class="doll-page-body">
+          <div class="video-content-container">
+            <img [src]="doll.galleryImagesLinks[0]" [alt]="doll.character">
+            <div class = "doll-link-container">
+              <a class="youtube" mat-stroked-button [href]="doll.video" target="_blank">hjgbujyhgyjhugb</a>
+           </div>
+          </div>
+          <div class = "doll-information-container">
+              <div class="array-container" *ngFor="let character of doll.character">
+                 <button mat-flat-button>{{character}}</button>
+              </div>
+              <div class="array-container" *ngFor="let gender of doll.gender">
+                 <button mat-flat-button>{{gender}}</button>
+              </div>
+              <button mat-flat-button>
+              {{doll.type}}
+              </button>
+              <button mat-flat-button>
+              {{doll.year}}
+              </button>
+              <ng-container class="array-container" *ngIf="doll.reissue==true">
+                 <button mat-flat-button>
+                 {{doll.reissue}}
+                 </button>
+              </ng-container>
+              <ng-container class="array-container" *ngIf="doll.exclusive">
+                 <button mat-flat-button>
+                 {{doll.exclusive}}
+                 </button>
+              </ng-container>
+              <p><span class="note">Item number: </span>{{doll.modelNumber}}</p>
+              <p>{{doll.description}}</p>
+           </div>
+
+        </section>
+      </div>
+    </div>
+</ng-container>

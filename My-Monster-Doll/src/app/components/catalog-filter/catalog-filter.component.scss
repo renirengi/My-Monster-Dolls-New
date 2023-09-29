@@ -1,0 +1,17 @@
+
+  ::ng-deep .mat-form-field {
+    padding: 0 3%;
+
+    .mat-form-field-label {
+      text-align: center;
+      padding: 1vh 1vw;
+      color: var(--accent);
+      background-color: var(--primary);
+      font-size: 1.2em;
+      border-top-left-radius: 30px;
+      font-family: var(--Bona);
+      font-weight: bold;
+    }
+
+}
+

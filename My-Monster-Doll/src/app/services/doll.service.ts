@@ -2,8 +2,9 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
 import { IDoll } from '../models/doll';
-import { Observable, map } from 'rxjs';
+import { Observable, map, shareReplay } from 'rxjs';
 import { Params } from '@angular/router';
+import { TFilterName } from '../models/filters';
 @Injectable({
   providedIn: 'root'
 })
@@ -15,12 +16,17 @@ export class DollService {
     ) {}
 
     public getAllDolls(): Observable<IDoll[]> {
-      return this.http.get<IDoll[]>(this.baseUrl);
+      return this.http.get<IDoll[]>(this.baseUrl).pipe(shareReplay(1));
     }
 
     public getDollsByParamsFromMenu(menuItem:string, params:string): Observable<IDoll[]>{
       const newUrl = `${this.baseUrl}?${menuItem}_like=${params}`;
     return this.http.get<IDoll[]>(newUrl);
+    }
+
+    public getDollById(id:number) {
+      const url = `${this.baseUrl}/${String(id)}`;
+    return this.http.get<IDoll>(url);
     }
 
     public getAvailable(value: string): Observable<string[]> {
@@ -98,8 +104,34 @@ export class DollService {
 
       return Object.entries(queryParams).reduce(paramsReducer, {});
     }
+
+    public getAvailableFilterValues(keys: TFilterName[]): Observable<{[index: string]: any[]}> {
+      return this.getAllDolls().pipe(
+        map((dolls) => {
+          const valueSets = keys.reduce((acc: {[index: string]: Set<any>}, key) => {
+            acc[key] = new Set();
+
+            return acc;
+          }, {});
+
+          dolls.forEach(doll => keys.forEach(key => {
+            if (Array.isArray(doll[key])) {
+              (doll[key] as Array<any>).forEach(item => valueSets[key].add(item));
+            } else {
+              valueSets[key].add(doll[key]);
+            }
+          }));
+
+          const valueArrays = keys.reduce((acc: {[index: string]: any[]}, key) => {
+            acc[key] = Array.from(valueSets[key]).sort();
+
+            return acc;
+          }, {});
+
+          return valueArrays;
+        })
+      );
+    }
 }
-function shareReplay(arg0: number): import("rxjs").OperatorFunction<IDoll[], unknown> {
-  throw new Error('Function not implemented.');
-}
+
 

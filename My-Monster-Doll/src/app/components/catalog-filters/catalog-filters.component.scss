@@ -1,3 +1,11 @@
+section {
+ display: flex;
+ width: 90%;
+ margin: 1vh auto;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+
 .param-container {
   margin: 2vh 3%;
   display: flex;
@@ -13,8 +21,4 @@
     font-weight: bold;
     letter-spacing: 1%;
   }
-}
-
-button {
-  margin:0 3% ;
 }

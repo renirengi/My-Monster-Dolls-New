@@ -1,4 +1,22 @@
 <div class="page" *ngIf="dolls$ |async as dolls">
-
+  <!-- <div class="param-container" *ngIf="paramName$ |async as name">
+     <h3>{{name|uppercase}}</h3>
+     <p>{{dolls.length}}</p>
+  </div> -->
+  <div *ngIf="paramKey$ |async as key" class="filter-buttons-container">
+     <button
+        mat-raised-button
+        color = "accent"
+        class = "random-button"
+        >
+        <mat-icon>
+           <span class="material-symbols-outlined">
+           tune
+           </span>
+        </mat-icon>
+        Filters
+     </button>
+  </div>
+  <app-catalog-filters [dolls] ="dolls"></app-catalog-filters>
   <app-dolls-list [dolls] ="dolls"></app-dolls-list>
 </div>

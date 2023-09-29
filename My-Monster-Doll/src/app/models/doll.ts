@@ -11,5 +11,5 @@ export interface IDoll {
   exclusive?: string;
   reissue?: boolean;
   video?: string;
-  icon: string;
+  rating: number;
 }

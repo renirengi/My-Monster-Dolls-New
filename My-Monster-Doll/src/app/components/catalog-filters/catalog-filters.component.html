@@ -1,0 +1,11 @@
+<div class="param-container" *ngIf="paramName$ |async as name">
+  <h3>{{name|uppercase}}</h3>
+  <p>{{dollsLength}}</p>
+</div>
+<section class="catalog-filter" *ngIf="filters$ | async as filters; else loading">
+  <app-catalog-filter *ngFor="let filter of filters" [config]="filter" (change)="onChange($event)"></app-catalog-filter>
+</section>
+
+<ng-template #loading>
+  <section class="catalog-filter">Loading...</section>
+</ng-template>

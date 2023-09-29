@@ -43,7 +43,6 @@ export class HeaderMenuComponent implements OnInit {
 
   public async onRoute(menuItem: string, par:string) {
     const dolls = await lastValueFrom(this.dollService.getDollsByParamsFromMenu(menuItem, par));
-    console.log(dolls)
     this.router.navigate(['/catalog'], { queryParams: { [menuItem]: par }});
   }
 

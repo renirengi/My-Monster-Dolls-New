@@ -31,6 +31,11 @@ import { MainComponent } from './components/pages/main/main.component';
 import { DollsListComponent } from './components/dolls-list/dolls-list.component';
 import { DollsCardsComponent } from './components/dolls-cards/dolls-cards.component';
 import { MainCatalogComponent } from './components/main-catalog/main-catalog.component';
+import { CatalogFiltersComponent } from './components/catalog-filters/catalog-filters.component';
+import { CatalogFilterComponent } from './components/catalog-filter/catalog-filter.component';
+import { DollPageComponent } from './components/pages/doll-page/doll-page.component';
+import { DollRatingComponent } from './components/doll-rating/doll-rating.component';
+
 
 
 
@@ -43,7 +48,11 @@ import { MainCatalogComponent } from './components/main-catalog/main-catalog.com
     MainComponent,
     DollsListComponent,
     DollsCardsComponent,
-    MainCatalogComponent
+    MainCatalogComponent,
+    CatalogFiltersComponent,
+    CatalogFilterComponent,
+    DollPageComponent,
+    DollRatingComponent
   ],
   imports: [
     BrowserModule,

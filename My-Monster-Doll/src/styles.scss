@@ -14,15 +14,15 @@
 // Define the palettes for your theme using the Material Design palettes available in palette.scss
 // (imported above). For each palette, you can optionally specify a default, lighter, and darker
 // hue. Available color palettes: https://material.io/design/color/
-$My-Monster-Doll-primary: mat.define-palette(mat.$cyan-palette, 500);
-$My-Monster-Doll-accent: mat.define-palette(mat.$brown-palette, 300);
+$My-Monster-Doll-primary: mat.define-palette(mat.$deep-purple-palette, 900);
+$My-Monster-Doll-accent: mat.define-palette(mat.$amber-palette, A400);
 
 // The warn palette is optional (defaults to red).
-$My-Monster-Doll-warn: mat.define-palette(mat.$pink-palette, 900);
+$My-Monster-Doll-warn: mat.define-palette(mat.$pink-palette, 500);
 
 // Create the theme object. A theme consists of configurations for individual
 // theming systems such as "color" or "typography".
-$My-Monster-Doll-theme: mat.define-light-theme((
+$My-Monster-Doll-theme: mat.define-dark-theme((
   color: (
     primary: $My-Monster-Doll-primary,
     accent: $My-Monster-Doll-accent,
@@ -37,8 +37,10 @@ $My-Monster-Doll-theme: mat.define-light-theme((
 
 /* You can add global styles to this file, and also import other style files */
 :root{
---accent: #A1887F;
---purple-blue: #311B92;
+--accent: #FFC400;
+--font-gold: #9d8665;
+--primary: #311B92;
+--warn: #E91E63;
 --Imbue: 'Imbue', serif;
 --Cinzel: 'Cinzel', serif;///заголовок
 --Bona: 'Bona Nova', serif;///база
@@ -50,7 +52,7 @@ html, body { height: 100%; box-sizing: border-box;}
 body { margin: 0; font-family: var(--Bona) }
 
 body {
-  background-image: url('./assets/9.jpg') !important;
+  background-image: url('./assets/1.gif') !important;
   background-size: cover;
   color: black !important;
 
@@ -72,10 +74,14 @@ header {
   border-top-right-radius: 50px;
   border-bottom-left-radius: 50px;
 
+
+
 }
 
-
-
 }
-.mat-menu-panel {width: 50vw; height: auto; left:0; font-family: var(--Forum); font-size: 10em;}
+.mat-menu-panel {width: 50vw; height: auto; left:0; font-size: 10em;}
+
+.mat-raised-button.mat-accent {
+  color: black;
+}
 

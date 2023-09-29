@@ -1,0 +1,12 @@
+<ng-template [ngIf]="config.type==='list'">
+  <mat-form-field appearance="fill" color="accent" class="range">
+    <mat-label>{{ config.title }} <mat-icon>
+      <span class="material-symbols-outlined">
+        expand_more
+        </span>
+   </mat-icon></mat-label>
+    <mat-select multiple (selectionChange)="onSelectionChange($event)">
+      <mat-option *ngFor="let option of config.options" [value]="option.value">{{ option.text }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+</ng-template>
