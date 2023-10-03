@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { ActivatedRouteSnapshot, Resolve, RouterStateSnapshot } from '@angular/router';
+import { ActivatedRouteSnapshot, RouterStateSnapshot } from '@angular/router';
 import { forkJoin, map, Observable, of } from 'rxjs';
 import { IFilterConfig } from '../models/filters';
 import { DollService } from './doll.service';
