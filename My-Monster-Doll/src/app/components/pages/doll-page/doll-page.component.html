@@ -20,7 +20,10 @@
               <a class="youtube" mat-stroked-button [href]="doll.video" target="_blank">hjgbujyhgyjhugb</a>
            </div>
           </div>
+
           <div class = "doll-information-container">
+              <p><span class="note">Item number: </span>{{doll.modelNumber}}</p>
+              <p>{{doll.description}}</p>
               <div class="array-container" *ngFor="let character of doll.character">
                  <button mat-flat-button>{{character}}</button>
               </div>
@@ -43,8 +46,6 @@
                  {{doll.exclusive}}
                  </button>
               </ng-container>
-              <p><span class="note">Item number: </span>{{doll.modelNumber}}</p>
-              <p>{{doll.description}}</p>
            </div>
 
         </section>
