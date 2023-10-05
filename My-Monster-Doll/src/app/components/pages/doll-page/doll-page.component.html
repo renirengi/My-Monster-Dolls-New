@@ -15,7 +15,19 @@
 
         <section class="doll-page-body">
           <div class="video-content-container">
-            <img [src]="doll.galleryImagesLinks[0]" [alt]="doll.character">
+            <div class = "image-content-container">
+              <img [src]="doll.galleryImagesLinks[0]" [alt]="doll.character">
+              <button
+                mat-flat-button
+                color="primary"
+                (click)="showSlider(doll.id)">
+                <mat-icon
+                  aria-label="Example logout icon"
+                  >
+                  <span class="material-symbols-outlined"> image_search </span>
+                </mat-icon>To improve
+              </button>
+            </div>
             <div class = "doll-link-container">
               <a class="youtube" mat-stroked-button [href]="doll.video" target="_blank">hjgbujyhgyjhugb</a>
            </div>

@@ -36,6 +36,8 @@ import { CatalogFiltersComponent } from './components/catalog-filters/catalog-fi
 import { CatalogFilterComponent } from './components/catalog-filter/catalog-filter.component';
 import { DollPageComponent } from './components/pages/doll-page/doll-page.component';
 import { DollRatingComponent } from './components/doll-rating/doll-rating.component';
+import { SliderModalComponent } from './components/slider-modal/slider-modal.component';
+import { ImageSliderComponent } from './components/image-slider/image-slider.component';
 
 
 
@@ -53,7 +55,9 @@ import { DollRatingComponent } from './components/doll-rating/doll-rating.compon
     CatalogFiltersComponent,
     CatalogFilterComponent,
     DollPageComponent,
-    DollRatingComponent
+    DollRatingComponent,
+    SliderModalComponent,
+    ImageSliderComponent
   ],
   imports: [
     BrowserModule,

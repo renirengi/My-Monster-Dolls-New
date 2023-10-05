@@ -1,0 +1,7 @@
+<ng-container *ngIf = "doll$ | async as doll">
+  <div class="slider-title">
+    <h2>{{doll.character}} / {{doll.series}} </h2>
+  </div>
+
+  <app-image-slider [slides]="doll.galleryImagesLinks"></app-image-slider>
+</ng-container>

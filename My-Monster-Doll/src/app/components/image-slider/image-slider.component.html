@@ -1,0 +1,20 @@
+<div class="slider">
+  <div>
+    <div (click)="goToPrevious()" class="leftArrow">❰</div>
+    <div (click)="goToNext()" class="rightArrow">❱</div>
+  </div>
+  <div class="slide">
+  <img
+        [src]="slides[currentIndex]"
+        [alt]="0">
+        </div>
+  <div class="dotsContainer">
+    <div
+      *ngFor="let slide of slides; let slideIndex = index"
+      [ngClass]="{'active':slideIndex==currentIndex, 'dot':slideIndex!==currentIndex }"
+      (click)="goToSlide(slideIndex)"
+    >
+      ●
+    </div>
+  </div>
+</div>

@@ -41,16 +41,29 @@
     .video-content-container{
       display: flex;
 
-     img {
-      margin: 1em 0;
-      width: 25%;
+      .image-content-container {
+        display: inherit;
+        flex-direction: column;
+        width: 25%;
+
+        img {
+        margin: 1em 0;
+        width: 100%;
+        }
+
+        button {
+          width: 80%;
+          margin: 0 auto;
+        }
       }
+
+
 
       .doll-link-container {
         margin: 2em 2em 2em 0;
         width:15%;
 
-        a{
+        a {
           width: 70px;
           height: 70px;
           border-radius: 50%;
