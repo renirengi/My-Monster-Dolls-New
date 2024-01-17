@@ -5,7 +5,7 @@
         expand_more
         </span>
    </mat-icon></mat-label>
-    <mat-select multiple (selectionChange)="onSelectionChange($event)">
+   <mat-select multiple (selectionChange)="onSelectionChange($event)">
       <mat-option *ngFor="let option of config.options" [value]="option.value">{{ option.text }}</mat-option>
     </mat-select>
   </mat-form-field>
